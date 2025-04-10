@@ -1,4 +1,16 @@
 { "commands": [
+{ "hdr": "700", "dbg": true, "cmd": {"22": "1059"}, "freq": 0.25,
+  "signals": [
+    {"id": "GR_COROLLA_ACCEL_PEDAL", "path": "Control", "fmt": { "len": 8, "max": 100, "div": 1.42, "add": -41, "unit": "percent" }, "name": "Accelerator Pedal"}
+  ]},
+{ "hdr": "700", "dbg": true, "cmd": {"22": "1074"}, "freq": 0.25,
+  "signals": [
+    {"id": "GR_COROLLA_ENG_OIL_PRESS", "path": "Engine", "fmt": { "len": 16, "max": 1000, "mul": 10, "div": 128, "unit": "kilopascal" }, "name": "Engine Oil Pressure"}
+  ]},
+{ "hdr": "700", "dbg": true, "cmd": {"22": "1638"}, "freq": 1,
+  "signals": [
+    {"id": "GR_COROLLA_ATF_TEMP", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Transmission Fluid Temperature"}
+  ]},
 { "hdr": "700", "dbg": true, "cmd": {"22": "1F2F"}, "freq": 30,
   "signals": [
     {"id": "GR_COROLLA_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
@@ -11,7 +23,7 @@
   "signals": [
     {"id": "GR_COROLLA_TF2_CONV", "path": "Engine", "fmt": { "len": 16, "max": 350, "min": -40, "mul": 0.00703125, "add": -40, "unit": "fahrenheit" }, "name": "Transmission Fluid Post-Converter Temperature"}
   ]},
-{ "hdr": "750", "eax": "2A", "tst": "2A", "tmo": "96", "fcm1": true, "dbg": true, "cmd": {"21": "16"}, "freq": 5,
+{ "hdr": "750", "eax": "2A", "tst": "2A", "tmo": "96", "fcm1": true, "dbg": true, "cmd": {"22": "1004"}, "freq": 5,
   "signals": [
     {"id": "GR_COROLLA_TT_FL",    "path": "Tires", "fmt": {           "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Front left tire temperature"},
     {"id": "GR_COROLLA_TT_FR",    "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Front right tire temperature"},
@@ -19,7 +31,7 @@
     {"id": "GR_COROLLA_TT_RR",    "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Rear right tire temperature"},
     {"id": "GR_COROLLA_TT_SPARE", "path": "Tires", "fmt": {"bix": 32, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Spare tire temperature"}
   ]},
-{ "hdr": "750", "rax": "758", "eax": "2A", "tst": "2A", "fcm1": true, "dbg": true, "cmd": {"21": "30"}, "freq": 5,
+{ "hdr": "750", "rax": "758", "eax": "2A", "tst": "2A", "tmo": "96", "fcm1": true, "dbg": true, "cmd": {"22": "1005"}, "freq": 5,
   "signals": [
     {"id": "GR_COROLLA_TP_FL",    "path": "Tires", "fmt": {           "len": 8, "max": 4, "div": 58, "add": -0.5, "unit": "bars" }, "name": "Front left tire pressure",  "suggestedMetric": "frontLeftTirePressure"},
     {"id": "GR_COROLLA_TP_FR",    "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 4, "div": 58, "add": -0.5, "unit": "bars" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"},
@@ -58,6 +70,10 @@
         }}
     }
   ]},
+{ "hdr": "7B0", "dbg": true, "cmd": {"22": "1006"}, "freq": 5,
+  "signals": [
+    {"id": "GR_COROLLA_MASTER_CYL_TEMP", "path": "Brakes", "fmt": { "len": 8, "max": 100, "min": -20, "add": -80, "unit": "celsius" }, "name": "Master Cylinder Sensor Temperature"}
+  ]},
 { "hdr": "7B0", "rax": "7B8", "dbg": true, "cmd": {"21": "03"}, "freq": 0.25,
   "signals": [
     {"id": "GR_COROLLA_TIRE_FR_SPD", "path": "Movement", "fmt": {           "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"},
@@ -65,9 +81,25 @@
     {"id": "GR_COROLLA_TIRE_RR_SPD", "path": "Movement", "fmt": {"bix": 16, "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"},
     {"id": "GR_COROLLA_TIRE_RL_SPD", "path": "Movement", "fmt": {"bix": 24, "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "7B0", "rax": "7B8", "dbg": true, "cmd": {"21": "47"}, "freq": 0.25,
+{ "hdr": "7B1", "dbg": true, "cmd": {"22": "1026"}, "freq": 1,
   "signals": [
-    {"id": "GR_COROLLA_STEER_ANGLE", "path": "Control", "fmt": {"bix": 24, "len": 16, "max": 1000, "min": -1000, "div": 10, "add": -32768, "unit": "degrees" }, "name": "Steering wheel angle"}
+    {"id": "GR_COROLLA_COUPLING_TEMP", "path": "Drivetrain", "fmt": { "len": 16, "max": 100, "min": -20, "div": 128, "unit": "celsius" }, "name": "Coupling Temperature"}
+  ]},
+{ "hdr": "7B3", "dbg": true, "cmd": {"22": "1004"}, "freq": 0.25,
+  "signals": [
+    {"id": "GR_COROLLA_STEERING_ANGLE", "path": "Control", "fmt": { "len": 16, "max": 410, "min": -410, "mul": 1.5, "sign": true, "unit": "degrees" }, "name": "Steering Angle"}
+  ]},
+{ "hdr": "7C0", "dbg": true, "cmd": {"22": "1021"}, "freq": 1,
+  "signals": [
+    {"id": "GR_COROLLA_BATTERY_VOLTAGE", "path": "Electrical", "fmt": { "len": 8, "max": 20, "div": 10, "unit": "volts" }, "name": "B+ Battery Voltage"}
+  ]},
+{ "hdr": "7D0", "dbg": true, "cmd": {"21": "62"}, "freq": 1,
+  "signals": [
+    {"id": "GR_COROLLA_PARKING_BRAKE", "path": "Control", "name": "Parking Brake", "fmt": {"len": 8, "map": {
+          "0": { "description": "", "value": "Off" },
+          "2": { "description": "", "value": "On" }
+        }}
+    }
   ]}
 ]
 }
