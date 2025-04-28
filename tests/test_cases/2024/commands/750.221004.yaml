@@ -1,0 +1,10 @@
+command_id: '750.221004'
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7080462100400'
+  expected_values:
+    GRCOROLLA_TT_FL: -40
+- response: 7BB06621004001006
+  expected_values:
+    GRCOROLLA_TT_FL: -40

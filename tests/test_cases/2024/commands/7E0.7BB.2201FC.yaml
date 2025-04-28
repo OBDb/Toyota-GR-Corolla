@@ -1,0 +1,9 @@
+command_id: 7E0.7BB.2201FC
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7BB066210040001FC
+  expected_values:
+    GRCOROLLA_TT_FL: -40
+- response: 7BB066210040001FC
+  expected_values: {}

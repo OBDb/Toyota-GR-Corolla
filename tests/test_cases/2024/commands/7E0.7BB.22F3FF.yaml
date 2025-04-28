@@ -1,0 +1,7 @@
+command_id: 7E0.7BB.22F3FF
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7BB06621004FFF3FF
+  expected_values:
+    GRCOROLLA_TT_FL: 215

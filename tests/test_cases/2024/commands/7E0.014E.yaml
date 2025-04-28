@@ -1,0 +1,10 @@
+command_id: 7E0.014E
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E804414E25B1
+  expected_values:
+    CLR_TIME: 9649
+- response: 7E804414E25B2
+  expected_values:
+    CLR_TIME: 9650
