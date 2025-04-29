@@ -5,5 +5,3 @@ test_cases:
 - response: 7BB066210040008FE
   expected_values:
     GRCOROLLA_TT_FL: -40
-- response: 7BB066210040008FE
-  expected_values: {}
