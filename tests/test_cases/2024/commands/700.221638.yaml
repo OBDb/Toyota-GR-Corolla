@@ -1,0 +1,352 @@
+command_id: '700.221638'
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '708056216382E40'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 6
+- response: 708056216382EE0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 6
+- response: 708056216382F80
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 7
+- response: '708056216383020'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 8
+- response: 7080562163830C0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 8
+- response: '708056216383160'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 9
+- response: '708056216383200'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 10
+- response: 7080562163832A0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 10
+- response: '708056216383340'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 11
+- response: '7080562163833E0'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 11
+- response: '708056216383480'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 12
+- response: '708056216383520'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 13
+- response: 7080562163835C0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 13
+- response: '708056216383660'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 14
+- response: '708056216383700'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 15
+- response: 7080562163837A0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 15
+- response: '708056216383840'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 16
+- response: '7080562163838E0'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 16
+- response: '708056216383980'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 17
+- response: 708056216383A20
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 18
+- response: 708056216383AC0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 18
+- response: 708056216383B60
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 19
+- response: 708056216383C00
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 20
+- response: 708056216383CA0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 20
+- response: 708056216383D40
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 21
+- response: 708056216383DE0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 21
+- response: '708056216383E80'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 22
+- response: 708056216383F20
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 23
+- response: 708056216383FC0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 23
+- response: '708056216384060'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 24
+- response: '708056216384100'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 25
+- response: 7080562163841A0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 25
+- response: '708056216384240'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 26
+- response: '7080562163842E0'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 26
+- response: '708056216384380'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 27
+- response: '708056216384420'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 28
+- response: 7080562163844C0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 28
+- response: '708056216384560'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 29
+- response: '708056216384600'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 30
+- response: 7080562163846A0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 30
+- response: '708056216384740'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 31
+- response: '7080562163847E0'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 31
+- response: '708056216384880'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 32
+- response: '708056216384920'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 33
+- response: 7080562163849C0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 33
+- response: 708056216384A60
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 34
+- response: 708056216384B00
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 35
+- response: 708056216384BA0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 35
+- response: 708056216384C40
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 36
+- response: 708056216384CE0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 36
+- response: 708056216384D80
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 37
+- response: '708056216384E20'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 38
+- response: 708056216384EC0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 38
+- response: 708056216384F60
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 39
+- response: '708056216385000'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 40
+- response: 7080562163850A0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 40
+- response: '708056216385140'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 41
+- response: '7080562163851E0'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 41
+- response: '708056216385280'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 42
+- response: '708056216385320'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 43
+- response: 7080562163853C0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 43
+- response: '708056216385460'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 44
+- response: '708056216385500'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 45
+- response: 7080562163855A0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 45
+- response: '708056216385640'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 46
+- response: '7080562163856E0'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 46
+- response: '708056216385780'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 47
+- response: '708056216385820'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 48
+- response: 7080562163858C0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 48
+- response: '708056216385960'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 49
+- response: 708056216385A00
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 50
+- response: 708056216385AA0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 50
+- response: 708056216385B40
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 51
+- response: 708056216385BE0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 51
+- response: 708056216385C80
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 52
+- response: 708056216385D20
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 53
+- response: 708056216385DC0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 53
+- response: '708056216385E60'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 54
+- response: 708056216385F00
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 55
+- response: 708056216385FA0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 55
+- response: '708056216386040'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 56
+- response: '7080562163860E0'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 56
+- response: '708056216386180'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 57
+- response: '708056216386220'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 58
+- response: 7080562163862C0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 58
+- response: '708056216386360'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 59
+- response: '708056216386400'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 60
+- response: 7080562163864A0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 60
+- response: '708056216386540'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 61
+- response: '7080562163865E0'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 61
+- response: '708056216386680'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 62
+- response: '708056216386720'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 63
+- response: 7080562163867C0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 63
+- response: '708056216386860'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 64
+- response: '708056216386900'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 65
+- response: 7080562163869A0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 65
+- response: 708056216386A40
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 66
+- response: 708056216386AE0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 66
+- response: 708056216386B80
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 67
+- response: 708056216386C20
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 68
+- response: 708056216386CC0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 68
+- response: 708056216386D60
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 69
+- response: '708056216386E00'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 70
+- response: 708056216386EA0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 70
+- response: 708056216386F40
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 71
+- response: 708056216386FE0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 71
+- response: '708056216387080'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 72
+- response: '708056216387120'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 73
+- response: 7080562163871C0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 73
+- response: '708056216387260'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 74
+- response: '708056216387300'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 75
+- response: 7080562163873A0
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 75
+- response: '708056216387440'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 76
+- response: '7080562163874E0'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 76
+- response: '708056216387580'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 77
+- response: '708056216387620'
+  expected_values:
+    GRCOROLLA_ATF_TEMP: 78
