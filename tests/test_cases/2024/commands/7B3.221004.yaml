@@ -1,0 +1,1852 @@
+command_id: 7B3.221004
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7BB06621004000000
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB06621004000001
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB06621004000002
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB06621004000003
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB06621004000004
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB06621004000005
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB06621004000006
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB06621004000007
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB066210040000F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB066210040000FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB066210040000FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB066210040000FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB066210040000FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB066210040000FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB066210040000FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 0
+- response: 7BB06621004000100
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB06621004000101
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB06621004000102
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB06621004000103
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB06621004000104
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB06621004000105
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB06621004000106
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB06621004000107
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB066210040001F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB066210040001FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB066210040001FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB066210040001FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB066210040001FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB066210040001FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB066210040001FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+- response: 7BB06621004000200
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB06621004000201
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB06621004000202
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB06621004000203
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB06621004000204
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB06621004000205
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB06621004000206
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB06621004000207
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB066210040002F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB066210040002FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB066210040002FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB066210040002FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB066210040002FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB066210040002FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB066210040002FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 3
+- response: 7BB06621004000300
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB06621004000301
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB06621004000302
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB06621004000303
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB06621004000304
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB06621004000305
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB06621004000306
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB06621004000307
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB066210040003F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB066210040003FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB066210040003FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB066210040003FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB066210040003FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB066210040003FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB066210040003FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 4.5
+- response: 7BB06621004000400
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB06621004000401
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB06621004000402
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB06621004000403
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB06621004000404
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB06621004000405
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB06621004000406
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB06621004000407
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB066210040004F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB066210040004FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB066210040004FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB066210040004FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB066210040004FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB066210040004FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB066210040004FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 6
+- response: 7BB06621004000500
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB06621004000501
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB06621004000502
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB06621004000503
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB06621004000504
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB06621004000505
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB06621004000506
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB06621004000507
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB066210040005F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB066210040005FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB066210040005FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB066210040005FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB066210040005FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB066210040005FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB066210040005FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB06621004000601
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB06621004000602
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB06621004000603
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB06621004000604
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB06621004000605
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB06621004000606
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB06621004000607
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB066210040006F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB066210040006FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB066210040006FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB066210040006FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB066210040006FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB066210040006FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB066210040006FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
+- response: 7BB06621004000700
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB06621004000701
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB06621004000702
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB06621004000703
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB06621004000704
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB06621004000705
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB066210040007F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB066210040007FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB066210040007FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB066210040007FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB066210040007FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB066210040007FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB066210040007FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 10.5
+- response: 7BB06621004000800
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB06621004000801
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB06621004000802
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB06621004000803
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB06621004000804
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB06621004000805
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB06621004000806
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB06621004000807
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB066210040008F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB066210040008FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB066210040008FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB066210040008FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB066210040008FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB066210040008FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB066210040008FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 12
+- response: 7BB06621004000900
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 13.5
+- response: 7BB06621004000902
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 13.5
+- response: 7BB06621004000903
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 13.5
+- response: 7BB06621004000904
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 13.5
+- response: 7BB06621004000905
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 13.5
+- response: 7BB06621004000906
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 13.5
+- response: 7BB066210040009F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 13.5
+- response: 7BB066210040009FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 13.5
+- response: 7BB066210040009FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 13.5
+- response: 7BB066210040009FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 13.5
+- response: 7BB066210040009FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 13.5
+- response: 7BB06621004000A00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000A01
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000A02
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000A03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000A04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000A05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000A06
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000A07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000AF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000AFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000AFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000AFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000AFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000AFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000AFF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000B02
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 16.5
+- response: 7BB06621004000B03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 16.5
+- response: 7BB06621004000B04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 16.5
+- response: 7BB06621004000B05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 16.5
+- response: 7BB06621004000B07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 16.5
+- response: 7BB06621004000BF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 16.5
+- response: 7BB06621004000BFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 16.5
+- response: 7BB06621004000BFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 16.5
+- response: 7BB06621004000BFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 16.5
+- response: 7BB06621004000C02
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 18
+- response: 7BB06621004000C05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 18
+- response: 7BB06621004000C07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 18
+- response: 7BB06621004000CFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 18
+- response: 7BB06621004000CFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 18
+- response: 7BB06621004000CFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 18
+- response: 7BB06621004000CFF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 18
+- response: 7BB06621004000D00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 19.5
+- response: 7BB06621004000D05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 19.5
+- response: 7BB06621004000D06
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 19.5
+- response: 7BB06621004000D07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 19.5
+- response: 7BB06621004000DFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 19.5
+- response: 7BB06621004000DFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 19.5
+- response: 7BB06621004000DFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 19.5
+- response: 7BB06621004000E00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 21
+- response: 7BB06621004000E03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 21
+- response: 7BB06621004000E07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 21
+- response: 7BB06621004000EFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 21
+- response: 7BB06621004000EFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 21
+- response: 7BB06621004000F00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 22.5
+- response: 7BB06621004000F02
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 22.5
+- response: 7BB06621004000F03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 22.5
+- response: 7BB06621004000F04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 22.5
+- response: 7BB06621004000F05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 22.5
+- response: 7BB06621004000FFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 22.5
+- response: 7BB06621004000FFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 22.5
+- response: 7BB06621004000FFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 22.5
+- response: 7BB06621004001000
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 24
+- response: 7BB06621004001002
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 24
+- response: 7BB06621004001005
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 24
+- response: 7BB06621004001006
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 24
+- response: 7BB06621004001007
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 24
+- response: 7BB066210040010FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 24
+- response: 7BB066210040010FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 24
+- response: 7BB066210040010FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 24
+- response: 7BB06621004001100
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 25.5
+- response: 7BB06621004001103
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 25.5
+- response: 7BB066210040011F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 25.5
+- response: 7BB06621004001200
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 27
+- response: 7BB06621004001201
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 27
+- response: 7BB066210040012FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 27
+- response: 7BB06621004001300
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 28.5
+- response: 7BB06621004001302
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 28.5
+- response: 7BB066210040013FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 28.5
+- response: 7BB066210040013FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 28.5
+- response: 7BB06621004001401
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 30
+- response: 7BB06621004001403
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 30
+- response: 7BB06621004001404
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 30
+- response: 7BB06621004001407
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 30
+- response: 7BB066210040014FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 30
+- response: 7BB06621004001503
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 31.5
+- response: 7BB066210040015FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 31.5
+- response: 7BB066210040015FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 31.5
+- response: 7BB066210040015FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 31.5
+- response: 7BB066210040016FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 33
+- response: 7BB066210040016FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 33
+- response: 7BB066210040016FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 33
+- response: 7BB06621004001700
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 34.5
+- response: 7BB06621004001703
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 34.5
+- response: 7BB06621004001704
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 34.5
+- response: 7BB066210040017FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 34.5
+- response: 7BB06621004001801
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 36
+- response: 7BB066210040018FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 36
+- response: 7BB06621004001900
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 37.5
+- response: 7BB06621004001904
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 37.5
+- response: 7BB066210040019F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 37.5
+- response: 7BB066210040019FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 37.5
+- response: 7BB06621004001B07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 40.5
+- response: 7BB06621004001BFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 40.5
+- response: 7BB06621004001C00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 42
+- response: 7BB06621004001CFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 42
+- response: 7BB06621004001DFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 43.5
+- response: 7BB06621004001E02
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 45
+- response: 7BB06621004001FFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 46.5
+- response: 7BB06621004002100
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 49.5
+- response: 7BB066210040021F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 49.5
+- response: 7BB06621004002203
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 51
+- response: 7BB06621004002300
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 52.5
+- response: 7BB066210040023FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 52.5
+- response: 7BB066210040023FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 52.5
+- response: 7BB06621004002402
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 54
+- response: 7BB06621004002506
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 55.5
+- response: 7BB06621004002700
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 58.5
+- response: 7BB066210040027FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 58.5
+- response: 7BB066210040028FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 60
+- response: 7BB06621004002905
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 61.5
+- response: 7BB06621004002A06
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 63
+- response: 7BB06621004002CFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 66
+- response: 7BB06621004002EFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 69
+- response: 7BB06621004002FFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 70.5
+- response: 7BB06621004003100
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 73.5
+- response: 7BB066210040032F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 75
+- response: 7BB066210040032FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 75
+- response: 7BB06621004003300
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 76.5
+- response: 7BB06621004003307
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 76.5
+- response: 7BB066210040033FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 76.5
+- response: 7BB06621004003501
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 79.5
+- response: 7BB066210040036FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 81
+- response: 7BB066210040038F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 84
+- response: 7BB06621004003903
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 85.5
+- response: 7BB06621004003905
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 85.5
+- response: 7BB06621004003907
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 85.5
+- response: 7BB06621004003AF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 87
+- response: 7BB06621004003C04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 90
+- response: 7BB06621004003E04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 93
+- response: 7BB06621004004205
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 99
+- response: 7BB06621004004601
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 105
+- response: 7BB06621004004602
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 105
+- response: 7BB066210040046FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 105
+- response: 7BB06621004004703
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 106.5
+- response: 7BB06621004004706
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 106.5
+- response: 7BB066210040049FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 109.5
+- response: 7BB06621004004AF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 111
+- response: 7BB06621004004AFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 111
+- response: 7BB06621004004BFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 112.5
+- response: 7BB066210040051FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 121.5
+- response: 7BB06621004005205
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 123
+- response: 7BB066210040052FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 123
+- response: 7BB066210040053FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 124.5
+- response: 7BB06621004005503
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 127.5
+- response: 7BB066210040058FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 132
+- response: 7BB06621004005C05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 138
+- response: 7BB06621004005CFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 138
+- response: 7BB06621004005CFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 138
+- response: 7BB06621004005D03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 139.5
+- response: 7BB06621004005EFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 141
+- response: 7BB06621004005F05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 142.5
+- response: 7BB06621004005FFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 142.5
+- response: 7BB066210040060FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 144
+- response: 7BB06621004006101
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 145.5
+- response: 7BB066210040061FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 145.5
+- response: 7BB06621004006402
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 150
+- response: 7BB06621004006602
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 153
+- response: 7BB06621004006806
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 156
+- response: 7BB06621004006B01
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 160.5
+- response: 7BB06621004006C00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 162
+- response: 7BB06621004006D01
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 163.5
+- response: 7BB06621004006E05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 165
+- response: 7BB066210040072FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 171
+- response: 7BB06621004007307
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 172.5
+- response: 7BB066210040075FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 175.5
+- response: 7BB066210040078FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 180
+- response: 7BB066210040079FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 181.5
+- response: 7BB066210040079FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 181.5
+- response: 7BB06621004007C05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 186
+- response: 7BB06621004007CFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 186
+- response: 7BB06621004007CFF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 186
+- response: 7BB06621004007DFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 187.5
+- response: 7BB066210040081FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 193.5
+- response: 7BB06621004008305
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 196.5
+- response: 7BB06621004008B00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 208.5
+- response: 7BB06621004008E00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 213
+- response: 7BB06621004009A01
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 231
+- response: 7BB06621004009BFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 232.5
+- response: 7BB0662100400A205
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 243
+- response: 7BB0662100400BAFF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 279
+- response: 7BB0662100400DD07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 331.5
+- response: 7BB0662100400F302
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 364.5
+- response: 7BB06621004010BFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 400.5
+- response: 7BB06621004011202
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 410
+- response: 7BB06621004012B04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 410
+- response: 7BB06621004FF0500
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -376.5
+- response: 7BB06621004FF1705
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -349.5
+- response: 7BB06621004FF1B03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -343.5
+- response: 7BB06621004FF53FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -259.5
+- response: 7BB06621004FF59FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -250.5
+- response: 7BB06621004FF6207
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -237
+- response: 7BB06621004FF63FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -235.5
+- response: 7BB06621004FF6900
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -226.5
+- response: 7BB06621004FF6A06
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -225
+- response: 7BB06621004FF6E00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -219
+- response: 7BB06621004FF76FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -207
+- response: 7BB06621004FF77FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -205.5
+- response: 7BB06621004FF7CFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -198
+- response: 7BB06621004FF7FFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -193.5
+- response: 7BB06621004FF80FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -192
+- response: 7BB06621004FF8107
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -190.5
+- response: 7BB06621004FF8200
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -189
+- response: 7BB06621004FF83FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -187.5
+- response: 7BB06621004FF8BFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -175.5
+- response: 7BB06621004FF8D00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -172.5
+- response: 7BB06621004FF8DFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -172.5
+- response: 7BB06621004FF9101
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -166.5
+- response: 7BB06621004FF91FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -166.5
+- response: 7BB06621004FF9906
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -154.5
+- response: 7BB06621004FF9AFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -153
+- response: 7BB06621004FF9BFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -151.5
+- response: 7BB06621004FF9CFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -150
+- response: 7BB06621004FF9D05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -148.5
+- response: 7BB06621004FF9D07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -148.5
+- response: 7BB06621004FFA0FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -144
+- response: 7BB06621004FFA103
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -142.5
+- response: 7BB06621004FFA3FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -139.5
+- response: 7BB06621004FFA907
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -130.5
+- response: 7BB06621004FFAAFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -129
+- response: 7BB06621004FFAD04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -124.5
+- response: 7BB06621004FFAEFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -123
+- response: 7BB06621004FFAF07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -121.5
+- response: 7BB06621004FFB202
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -117
+- response: 7BB06621004FFB600
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -111
+- response: 7BB06621004FFB9FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -106.5
+- response: 7BB06621004FFBC03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -102
+- response: 7BB06621004FFBD07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -100.5
+- response: 7BB06621004FFBE01
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -99
+- response: 7BB06621004FFBE04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -99
+- response: 7BB06621004FFBE05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -99
+- response: 7BB06621004FFBE07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -99
+- response: 7BB06621004FFBEF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -99
+- response: 7BB06621004FFC0FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -96
+- response: 7BB06621004FFC205
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -93
+- response: 7BB06621004FFC300
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -91.5
+- response: 7BB06621004FFC5FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -88.5
+- response: 7BB06621004FFC9FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -82.5
+- response: 7BB06621004FFCAFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -81
+- response: 7BB06621004FFCC03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -78
+- response: 7BB06621004FFCCFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -78
+- response: 7BB06621004FFCEFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -75
+- response: 7BB06621004FFCEFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -75
+- response: 7BB06621004FFD201
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -69
+- response: 7BB06621004FFD206
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -69
+- response: 7BB06621004FFD207
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -69
+- response: 7BB06621004FFD306
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -67.5
+- response: 7BB06621004FFD3FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -67.5
+- response: 7BB06621004FFD3FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -67.5
+- response: 7BB06621004FFD401
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -66
+- response: 7BB06621004FFD4FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -66
+- response: 7BB06621004FFD5FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -64.5
+- response: 7BB06621004FFD6FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -63
+- response: 7BB06621004FFD9FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -58.5
+- response: 7BB06621004FFDEFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -51
+- response: 7BB06621004FFDF04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -49.5
+- response: 7BB06621004FFDFFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -49.5
+- response: 7BB06621004FFDFFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -49.5
+- response: 7BB06621004FFE006
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -48
+- response: 7BB06621004FFE206
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -45
+- response: 7BB06621004FFE207
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -45
+- response: 7BB06621004FFE2F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -45
+- response: 7BB06621004FFE2FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -45
+- response: 7BB06621004FFE2FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -45
+- response: 7BB06621004FFE304
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -43.5
+- response: 7BB06621004FFE305
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -43.5
+- response: 7BB06621004FFE3F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -43.5
+- response: 7BB06621004FFE3FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -43.5
+- response: 7BB06621004FFE3FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -43.5
+- response: 7BB06621004FFE3FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -43.5
+- response: 7BB06621004FFE400
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -42
+- response: 7BB06621004FFE402
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -42
+- response: 7BB06621004FFE4FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -42
+- response: 7BB06621004FFE4FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -42
+- response: 7BB06621004FFE5FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -40.5
+- response: 7BB06621004FFE600
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -39
+- response: 7BB06621004FFE604
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -39
+- response: 7BB06621004FFE6FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -39
+- response: 7BB06621004FFE6FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -39
+- response: 7BB06621004FFE6FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -39
+- response: 7BB06621004FFE705
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -37.5
+- response: 7BB06621004FFE800
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -36
+- response: 7BB06621004FFE801
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -36
+- response: 7BB06621004FFE803
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -36
+- response: 7BB06621004FFE903
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -34.5
+- response: 7BB06621004FFE905
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -34.5
+- response: 7BB06621004FFE907
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -34.5
+- response: 7BB06621004FFE9FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -34.5
+- response: 7BB06621004FFEA05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -33
+- response: 7BB06621004FFEA07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -33
+- response: 7BB06621004FFEAF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -33
+- response: 7BB06621004FFEB01
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -31.5
+- response: 7BB06621004FFEB05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -31.5
+- response: 7BB06621004FFEC00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -30
+- response: 7BB06621004FFEC01
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -30
+- response: 7BB06621004FFEC02
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -30
+- response: 7BB06621004FFEC03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -30
+- response: 7BB06621004FFEC04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -30
+- response: 7BB06621004FFECFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -30
+- response: 7BB06621004FFED03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -28.5
+- response: 7BB06621004FFED05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -28.5
+- response: 7BB06621004FFED06
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -28.5
+- response: 7BB06621004FFEDF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -28.5
+- response: 7BB06621004FFEDFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -28.5
+- response: 7BB06621004FFEE02
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -27
+- response: 7BB06621004FFEE05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -27
+- response: 7BB06621004FFEEFF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -27
+- response: 7BB06621004FFEF03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -25.5
+- response: 7BB06621004FFEF05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -25.5
+- response: 7BB06621004FFEF07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -25.5
+- response: 7BB06621004FFEFFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -25.5
+- response: 7BB06621004FFEFFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -25.5
+- response: 7BB06621004FFF000
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -24
+- response: 7BB06621004FFF0F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -24
+- response: 7BB06621004FFF0FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -24
+- response: 7BB06621004FFF103
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -22.5
+- response: 7BB06621004FFF106
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -22.5
+- response: 7BB06621004FFF107
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -22.5
+- response: 7BB06621004FFF1F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -22.5
+- response: 7BB06621004FFF1FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -22.5
+- response: 7BB06621004FFF1FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -22.5
+- response: 7BB06621004FFF1FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -22.5
+- response: 7BB06621004FFF1FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -22.5
+- response: 7BB06621004FFF1FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -22.5
+- response: 7BB06621004FFF200
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -21
+- response: 7BB06621004FFF204
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -21
+- response: 7BB06621004FFF205
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -21
+- response: 7BB06621004FFF207
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -21
+- response: 7BB06621004FFF2F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -21
+- response: 7BB06621004FFF2FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -21
+- response: 7BB06621004FFF2FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -21
+- response: 7BB06621004FFF2FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -21
+- response: 7BB06621004FFF2FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -21
+- response: 7BB06621004FFF304
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -19.5
+- response: 7BB06621004FFF3FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -19.5
+- response: 7BB06621004FFF3FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -19.5
+- response: 7BB06621004FFF3FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -19.5
+- response: 7BB06621004FFF3FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -19.5
+- response: 7BB06621004FFF3FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -19.5
+- response: 7BB06621004FFF401
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -18
+- response: 7BB06621004FFF403
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -18
+- response: 7BB06621004FFF404
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -18
+- response: 7BB06621004FFF4F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -18
+- response: 7BB06621004FFF4FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -18
+- response: 7BB06621004FFF500
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -16.5
+- response: 7BB06621004FFF501
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -16.5
+- response: 7BB06621004FFF502
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -16.5
+- response: 7BB06621004FFF503
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -16.5
+- response: 7BB06621004FFF505
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -16.5
+- response: 7BB06621004FFF507
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -16.5
+- response: 7BB06621004FFF5FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -16.5
+- response: 7BB06621004FFF600
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -15
+- response: 7BB06621004FFF601
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -15
+- response: 7BB06621004FFF602
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -15
+- response: 7BB06621004FFF604
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -15
+- response: 7BB06621004FFF605
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -15
+- response: 7BB06621004FFF606
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -15
+- response: 7BB06621004FFF607
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -15
+- response: 7BB06621004FFF6FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -15
+- response: 7BB06621004FFF6FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -15
+- response: 7BB06621004FFF6FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -15
+- response: 7BB06621004FFF6FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -15
+- response: 7BB06621004FFF700
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -13.5
+- response: 7BB06621004FFF702
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -13.5
+- response: 7BB06621004FFF703
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -13.5
+- response: 7BB06621004FFF705
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -13.5
+- response: 7BB06621004FFF706
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -13.5
+- response: 7BB06621004FFF707
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -13.5
+- response: 7BB06621004FFF7FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -13.5
+- response: 7BB06621004FFF7FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -13.5
+- response: 7BB06621004FFF7FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -13.5
+- response: 7BB06621004FFF7FF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -13.5
+- response: 7BB06621004FFF801
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF802
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF803
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF804
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF805
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF806
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF807
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF8F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF8FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF8FB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF8FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF8FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF8FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -12
+- response: 7BB06621004FFF900
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -10.5
+- response: 7BB06621004FFF901
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -10.5
+- response: 7BB06621004FFF902
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -10.5
+- response: 7BB06621004FFF903
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -10.5
+- response: 7BB06621004FFF904
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -10.5
+- response: 7BB06621004FFF905
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -10.5
+- response: 7BB06621004FFF9F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -10.5
+- response: 7BB06621004FFF9FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -10.5
+- response: 7BB06621004FFF9FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -10.5
+- response: 7BB06621004FFF9FD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -10.5
+- response: 7BB06621004FFF9FE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -10.5
+- response: 7BB06621004FFFA00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -9
+- response: 7BB06621004FFFA04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -9
+- response: 7BB06621004FFFA05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -9
+- response: 7BB06621004FFFA06
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -9
+- response: 7BB06621004FFFA07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -9
+- response: 7BB06621004FFFAFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -9
+- response: 7BB06621004FFFAFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -9
+- response: 7BB06621004FFFB00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFB01
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFB02
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFB03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFB04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFB05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFB06
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFB07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFBF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFBFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFBFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFBFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFBFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFBFF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -7.5
+- response: 7BB06621004FFFC00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFC01
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFC02
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFC04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFC05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFC06
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFC07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFCF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFCFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFCFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFCFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFCFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFCFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFCFF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -6
+- response: 7BB06621004FFFD01
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFD02
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFD03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFD04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFD05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFD06
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFD07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFDF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFDFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFDFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFDFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFDFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFDFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFDFF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -4.5
+- response: 7BB06621004FFFE00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFE01
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFE02
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFE03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFE04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFE05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFE06
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFE07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFEFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFEFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFEFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFEFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFEFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFEFF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -3
+- response: 7BB06621004FFFF00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFF01
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFF02
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFF03
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFF04
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFF05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFF06
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFF07
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFFF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFFFA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFFFB
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFFFC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFFFD
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFFFE
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5
+- response: 7BB06621004FFFFFF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -1.5

@@ -1,0 +1,136 @@
+command_id: 7B0.221006
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7B8056210065500
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 5
+- response: 7B8056210065600
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 6
+- response: 7B8056210065700
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 7
+- response: 7B8056210065800
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 8
+- response: 7B8056210065900
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 9
+- response: 7B8056210065A00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 10
+- response: 7B8056210065B00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 11
+- response: 7B8056210065C00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 12
+- response: 7B8056210065D00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 13
+- response: 7B8056210065E00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 14
+- response: 7B8056210065F00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 15
+- response: 7B8056210066000
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 16
+- response: 7B8056210066100
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 17
+- response: 7B8056210066200
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 18
+- response: 7B8056210066300
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 19
+- response: 7B8056210066400
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 20
+- response: 7B8056210066500
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 21
+- response: 7B8056210066600
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 22
+- response: 7B8056210066700
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 23
+- response: 7B8056210066800
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 24
+- response: 7B8056210066900
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 25
+- response: 7B8056210066A00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 26
+- response: 7B8056210066B00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 27
+- response: 7B8056210066C00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 28
+- response: 7B8056210066D00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 29
+- response: 7B8056210066E00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 30
+- response: 7B8056210066F00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 31
+- response: 7B8056210067000
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 32
+- response: 7B8056210067100
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 33
+- response: 7B8056210067200
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 34
+- response: 7B8056210067300
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 35
+- response: 7B8056210067400
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 36
+- response: 7B8056210067500
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 37
+- response: 7B8056210067600
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 38
+- response: 7B8056210067700
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 39
+- response: 7B8056210067800
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 40
+- response: 7B8056210067900
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 41
+- response: 7B8056210067A00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 42
+- response: 7B8056210067B00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 43
+- response: 7B8056210067C00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 44
+- response: 7B8056210067D00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 45
+- response: 7B8056210067E00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 46
+- response: 7B8056210067F00
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 47
+- response: 7B8056210068000
+  expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 48
