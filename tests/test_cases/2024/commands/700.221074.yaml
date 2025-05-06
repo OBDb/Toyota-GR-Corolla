@@ -326,6 +326,9 @@ test_cases:
 - response: '708056210740731'
   expected_values:
     GRCOROLLA_ENG_OIL_PRESS: 143.82812
+- response: '708056210740736'
+  expected_values:
+    GRCOROLLA_ENG_OIL_PRESS: 144.21875
 - response: 70805621074073A
   expected_values:
     GRCOROLLA_ENG_OIL_PRESS: 144.53125
@@ -647,6 +650,9 @@ test_cases:
 - response: 7080562107409C6
   expected_values:
     GRCOROLLA_ENG_OIL_PRESS: 195.46875
+- response: 7080562107409CA
+  expected_values:
+    GRCOROLLA_ENG_OIL_PRESS: 195.78125
 - response: 7080562107409D3
   expected_values:
     GRCOROLLA_ENG_OIL_PRESS: 196.48438
@@ -2432,6 +2438,9 @@ test_cases:
 - response: 70805621074157E
   expected_values:
     GRCOROLLA_ENG_OIL_PRESS: 429.84375
+- response: '708056210741587'
+  expected_values:
+    GRCOROLLA_ENG_OIL_PRESS: 430.54688
 - response: 70805621074158B
   expected_values:
     GRCOROLLA_ENG_OIL_PRESS: 430.85938
@@ -2738,6 +2747,9 @@ test_cases:
 - response: 7080562107417D0
   expected_values:
     GRCOROLLA_ENG_OIL_PRESS: 476.25
+- response: '7080562107417E1'
+  expected_values:
+    GRCOROLLA_ENG_OIL_PRESS: 477.57812
 - response: 7080562107417EA
   expected_values:
     GRCOROLLA_ENG_OIL_PRESS: 478.28125
@@ -2939,6 +2951,9 @@ test_cases:
 - response: '708056210741981'
   expected_values:
     GRCOROLLA_ENG_OIL_PRESS: 510.07812
+- response: '708056210741985'
+  expected_values:
+    GRCOROLLA_ENG_OIL_PRESS: 510.39062
 - response: 7080562107419AD
   expected_values:
     GRCOROLLA_ENG_OIL_PRESS: 513.51562

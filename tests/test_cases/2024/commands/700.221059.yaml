@@ -149,6 +149,11 @@ test_cases:
     GRCOROLLA_ACCEL_PEDAL: 0
 - response: |-
     708100A6210592D5629
+    708215200FA00000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 0
+- response: |-
+    708100A6210592D5629
     7082152012100000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 0
@@ -359,12 +364,22 @@ test_cases:
     GRCOROLLA_ACCEL_PEDAL: 0
 - response: |-
     708100A621059305929
+    708215202D100000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 0
+- response: |-
+    708100A621059305929
     708215202E300000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 0
 - response: |-
     708100A621059305929
     708215202F800000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 0
+- response: |-
+    708100A621059305929
+    708215202FA00000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 0
 - response: |-
@@ -719,6 +734,11 @@ test_cases:
     GRCOROLLA_ACCEL_PEDAL: 0
 - response: |-
     708100A621059355E29
+    7082152059C00000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 0
+- response: |-
+    708100A621059355E29
     708215205A600000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 0
@@ -755,6 +775,11 @@ test_cases:
 - response: |-
     708100A621059365F29
     708215205E100000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 0
+- response: |-
+    708100A621059365F29
+    708215205E800000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 0
 - response: |-
@@ -1394,6 +1419,11 @@ test_cases:
     GRCOROLLA_ACCEL_PEDAL: 1.25352
 - response: |-
     708100A6210593C6429
+    7082152093500000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 1.25352
+- response: |-
+    708100A6210593C6429
     7082152093A00000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 1.25352
@@ -1454,6 +1484,11 @@ test_cases:
     GRCOROLLA_ACCEL_PEDAL: 1.25352
 - response: |-
     708100A6210593C6529
+    7082152095C00000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 1.25352
+- response: |-
+    708100A6210593C6529
     7082152096100000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 1.25352
@@ -1480,6 +1515,11 @@ test_cases:
 - response: |-
     708100A6210593C6529
     7082152097800000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 1.25352
+- response: |-
+    708100A6210593C6529
+    7082152097A00000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 1.25352
 - response: |-
@@ -1714,6 +1754,11 @@ test_cases:
     GRCOROLLA_ACCEL_PEDAL: 2.66197
 - response: |-
     708100A6210593E6729
+    708215209FA00000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 2.66197
+- response: |-
+    708100A6210593E6729
     70821520A5700000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 2.66197
@@ -1800,6 +1845,11 @@ test_cases:
 - response: |-
     708100A6210593E6729
     70821520A9100000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 2.66197
+- response: |-
+    708100A6210593E6729
+    70821520A9C00000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 2.66197
 - response: |-
@@ -2199,6 +2249,11 @@ test_cases:
     GRCOROLLA_ACCEL_PEDAL: 4.07042
 - response: |-
     708100A621059406929
+    70821520BAE00000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 4.07042
+- response: |-
+    708100A621059406929
     70821520BB000000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 4.07042
@@ -2245,6 +2300,11 @@ test_cases:
 - response: |-
     708100A621059406929
     70821520BD400000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 4.07042
+- response: |-
+    708100A621059406929
+    70821520BD700000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 4.07042
 - response: |-
@@ -2939,6 +2999,11 @@ test_cases:
     GRCOROLLA_ACCEL_PEDAL: 6.88732
 - response: |-
     708100A621059446C2A
+    70821520CD900000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 6.88732
+- response: |-
+    708100A621059446C2A
     70821520CFA00000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 6.88732
@@ -3234,6 +3299,11 @@ test_cases:
     GRCOROLLA_ACCEL_PEDAL: 7.59155
 - response: |-
     708100A621059456E29
+    70821520E5C00000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 7.59155
+- response: |-
+    708100A621059456E29
     70821520E5E00000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 7.59155
@@ -3485,6 +3555,11 @@ test_cases:
 - response: |-
     708100A621059466F29
     70821520EEB00000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 8.29577
+- response: |-
+    708100A621059466F29
+    70821520EEE00000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 8.29577
 - response: |-
@@ -3875,6 +3950,11 @@ test_cases:
 - response: |-
     708100A621059487129
     7082152100700000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 9.70423
+- response: |-
+    708100A621059487129
+    7082152101700000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 9.70423
 - response: |-
@@ -4694,6 +4774,11 @@ test_cases:
     GRCOROLLA_ACCEL_PEDAL: 12.52113
 - response: |-
     708100A6210594C7529
+    7082152125400000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 12.52113
+- response: |-
+    708100A6210594C7529
     7082152125900000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 12.52113
@@ -5024,6 +5109,11 @@ test_cases:
     GRCOROLLA_ACCEL_PEDAL: 14.6338
 - response: |-
     708100A6210594F7729
+    708215213B800000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 14.6338
+- response: |-
+    708100A6210594F7729
     708215213BD00000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 14.6338
@@ -5105,6 +5195,11 @@ test_cases:
 - response: |-
     708100A621059507829
     7082152143000000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 15.33803
+- response: |-
+    708100A621059507829
+    7082152143300000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 15.33803
 - response: |-
@@ -5559,6 +5654,11 @@ test_cases:
     GRCOROLLA_ACCEL_PEDAL: 19.56338
 - response: |-
     708100A621059567E29
+    708215217A600000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 19.56338
+- response: |-
+    708100A621059567E29
     708215217BA00000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 19.56338
@@ -5582,6 +5682,11 @@ test_cases:
     7082152181400000000
   expected_values:
     GRCOROLLA_ACCEL_PEDAL: 19.56338
+- response: |-
+    708100A621059578029
+    7082152184700000000
+  expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 20.26761
 - response: |-
     708100A621059588129
     708215218FD00000000

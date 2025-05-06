@@ -272,6 +272,9 @@ test_cases:
 - response: 7BB066210040005FF
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 7.5
+- response: 7BB06621004000600
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 9
 - response: 7BB06621004000601
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 9
@@ -476,6 +479,9 @@ test_cases:
 - response: 7BB06621004000AFF
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 15
+- response: 7BB06621004000B00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 16.5
 - response: 7BB06621004000B02
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 16.5
@@ -525,6 +531,9 @@ test_cases:
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 18
 - response: 7BB06621004000D00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 19.5
+- response: 7BB06621004000D04
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 19.5
 - response: 7BB06621004000D05
@@ -599,6 +608,9 @@ test_cases:
 - response: 7BB06621004001007
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 24
+- response: 7BB066210040010F9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 24
 - response: 7BB066210040010FB
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 24
@@ -630,6 +642,9 @@ test_cases:
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 28.5
 - response: 7BB06621004001302
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 28.5
+- response: 7BB06621004001305
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 28.5
 - response: 7BB066210040013FD
@@ -666,6 +681,9 @@ test_cases:
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 31.5
 - response: 7BB066210040016FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 33
+- response: 7BB066210040016FB
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 33
 - response: 7BB066210040016FD
@@ -716,6 +734,9 @@ test_cases:
 - response: 7BB06621004001CFE
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 42
+- response: 7BB06621004001D06
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 43.5
 - response: 7BB06621004001DFB
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 43.5
@@ -725,6 +746,9 @@ test_cases:
 - response: 7BB06621004001FFB
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 46.5
+- response: 7BB066210040020FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 48
 - response: 7BB06621004002100
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 49.5
@@ -737,6 +761,9 @@ test_cases:
 - response: 7BB06621004002300
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 52.5
+- response: 7BB06621004002307
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 52.5
 - response: 7BB066210040023FB
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 52.5
@@ -746,6 +773,12 @@ test_cases:
 - response: 7BB06621004002402
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 54
+- response: 7BB06621004002501
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 55.5
+- response: 7BB06621004002504
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 55.5
 - response: 7BB06621004002506
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 55.5
@@ -764,6 +797,9 @@ test_cases:
 - response: 7BB06621004002A06
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 63
+- response: 7BB06621004002AF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 63
 - response: 7BB06621004002CFA
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 66
@@ -776,6 +812,9 @@ test_cases:
 - response: 7BB06621004003100
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 73.5
+- response: 7BB06621004003200
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 75
 - response: 7BB066210040032F9
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 75
@@ -797,6 +836,9 @@ test_cases:
 - response: 7BB066210040036FD
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 81
+- response: 7BB06621004003706
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 82.5
 - response: 7BB066210040038F9
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 84
@@ -905,6 +947,9 @@ test_cases:
 - response: 7BB06621004006806
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 156
+- response: 7BB06621004006AF9
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 159
 - response: 7BB06621004006B01
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 160.5
@@ -959,6 +1004,9 @@ test_cases:
 - response: 7BB06621004008E00
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 213
+- response: 7BB06621004009707
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: 226.5
 - response: 7BB06621004009A01
   expected_values:
     GRCOROLLA_STEERING_ANGLE: 231
@@ -995,6 +1043,9 @@ test_cases:
 - response: 7BB06621004FF1B03
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -343.5
+- response: 7BB06621004FF3A05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -297
 - response: 7BB06621004FF53FA
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -259.5
@@ -1133,6 +1184,9 @@ test_cases:
 - response: 7BB06621004FFC205
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -93
+- response: 7BB06621004FFC2FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -93
 - response: 7BB06621004FFC300
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -91.5
@@ -1157,6 +1211,9 @@ test_cases:
 - response: 7BB06621004FFCEFD
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -75
+- response: 7BB06621004FFD0FA
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -72
 - response: 7BB06621004FFD201
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -69
@@ -1190,6 +1247,9 @@ test_cases:
 - response: 7BB06621004FFD9FD
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -58.5
+- response: 7BB06621004FFDDFF
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -52.5
 - response: 7BB06621004FFDEFD
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -51
@@ -1271,6 +1331,9 @@ test_cases:
 - response: 7BB06621004FFE705
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -37.5
+- response: 7BB06621004FFE7FC
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -37.5
 - response: 7BB06621004FFE800
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -36
@@ -1305,6 +1368,9 @@ test_cases:
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -31.5
 - response: 7BB06621004FFEB05
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -31.5
+- response: 7BB06621004FFEBFC
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -31.5
 - response: 7BB06621004FFEC00
@@ -1367,6 +1433,9 @@ test_cases:
 - response: 7BB06621004FFF000
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -24
+- response: 7BB06621004FFF004
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -24
 - response: 7BB06621004FFF0F9
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -24
@@ -1374,6 +1443,9 @@ test_cases:
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -24
 - response: 7BB06621004FFF103
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -22.5
+- response: 7BB06621004FFF105
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -22.5
 - response: 7BB06621004FFF106
@@ -1617,6 +1689,9 @@ test_cases:
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -10.5
 - response: 7BB06621004FFFA00
+  expected_values:
+    GRCOROLLA_STEERING_ANGLE: -9
+- response: 7BB06621004FFFA03
   expected_values:
     GRCOROLLA_STEERING_ANGLE: -9
 - response: 7BB06621004FFFA04
