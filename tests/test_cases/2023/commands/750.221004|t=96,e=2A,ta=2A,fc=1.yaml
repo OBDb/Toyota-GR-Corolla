@@ -1,0 +1,27 @@
+command_id: 750.221004|t=96,e=2A,ta=2A,fc=1
+test_cases:
+- expected_values:
+    GRCOROLLA_TT_FL: -40
+    GRCOROLLA_TT_FR: -40
+    GRCOROLLA_TT_RL: -38
+  response: 7BB06621004000002
+- expected_values:
+    GRCOROLLA_TT_FL: -40
+    GRCOROLLA_TT_FR: -40
+    GRCOROLLA_TT_RL: 215
+  response: 7BB066210040000FF
+- expected_values:
+    GRCOROLLA_TT_FL: -40
+    GRCOROLLA_TT_FR: -16
+    GRCOROLLA_TT_RL: -40
+  response: 7BB06621004001800
+- expected_values:
+    GRCOROLLA_TT_FL: 215
+    GRCOROLLA_TT_FR: 77
+    GRCOROLLA_TT_RL: 210
+  response: 7BB06621004FF75FA
+- expected_values:
+    GRCOROLLA_TT_FL: 215
+    GRCOROLLA_TT_FR: 215
+    GRCOROLLA_TT_RL: -35
+  response: 7BB06621004FFFF05
