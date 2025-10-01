@@ -1,0 +1,14 @@
+command_id: 701.709.221627
+test_cases:
+- expected_values:
+    GRCOROLLA_TF1_PAN: 64.625
+  response: 709056216273A20
+- expected_values:
+    GRCOROLLA_TF1_PAN: 68
+  response: 709056216273C00
+- expected_values:
+    GRCOROLLA_TF1_PAN: 71.375
+  response: 709056216273DE0
+- expected_values:
+    GRCOROLLA_TF1_PAN: 203
+  response: '709056216278700'
