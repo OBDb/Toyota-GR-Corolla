@@ -1,0 +1,8 @@
+command_id: 7B0.221006
+test_cases:
+- expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 15
+  response: 7B8056210065F00
+- expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 59
+  response: 7B8056210068B00

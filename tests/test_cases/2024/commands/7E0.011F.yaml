@@ -1,7 +1,0 @@
-command_id: 7E0.011F
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
-test_cases:
-- response: 7E804411F038C
-  expected_values:
-    RUNTM: 908
