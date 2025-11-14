@@ -1,0 +1,14 @@
+command_id: 700.708.221638
+test_cases:
+- expected_values:
+    GRCOROLLA_ATF_TEMP: 6
+  response: '708056216382E40'
+- expected_values:
+    GRCOROLLA_ATF_TEMP: 6
+  response: 708056216382EE0
+- expected_values:
+    GRCOROLLA_ATF_TEMP: 10
+  response: '708056216383200'
+- expected_values:
+    GRCOROLLA_ATF_TEMP: 85
+  response: 708056216387D00

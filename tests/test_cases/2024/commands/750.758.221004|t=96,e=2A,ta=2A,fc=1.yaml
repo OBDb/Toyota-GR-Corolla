@@ -1,0 +1,37 @@
+command_id: 750.758.221004|t=96,e=2A,ta=2A,fc=1
+test_cases:
+- expected_values:
+    GRCOROLLA_TT_FL: -40
+    GRCOROLLA_TT_FR: -40
+    GRCOROLLA_TT_RL: -40
+  response: |-
+    7582A10086210040000
+    7582A21000000000000
+- expected_values:
+    GRCOROLLA_TT_FL: 15
+    GRCOROLLA_TT_FR: -40
+    GRCOROLLA_TT_RL: 15
+  response: |-
+    7582A10086210043700
+    7582A21370000000000
+- expected_values:
+    GRCOROLLA_TT_FL: 17
+    GRCOROLLA_TT_FR: 14
+    GRCOROLLA_TT_RL: 15
+  response: |-
+    7582A10086210043936
+    7582A21373A00000000
+- expected_values:
+    GRCOROLLA_TT_FL: 18
+    GRCOROLLA_TT_FR: 15
+    GRCOROLLA_TT_RL: 16
+  response: |-
+    7582A10086210043A37
+    7582A21383A00000000
+- expected_values:
+    GRCOROLLA_TT_FL: 19
+    GRCOROLLA_TT_FR: 15
+    GRCOROLLA_TT_RL: 16
+  response: |-
+    7582A10086210043B37
+    7582A21383C00000000
