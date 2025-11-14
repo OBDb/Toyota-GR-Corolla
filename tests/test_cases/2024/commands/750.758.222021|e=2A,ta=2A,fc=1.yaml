@@ -1,0 +1,10 @@
+command_id: 750.758.222021|e=2A,ta=2A,fc=1
+test_cases:
+- expected_values:
+    GRCOROLLA_TID_1: FL
+    GRCOROLLA_TID_2: RL
+    GRCOROLLA_TID_3: RR
+    GRCOROLLA_TID_4: FR
+  response: |-
+    7582A10086220210103
+    7582A21040200000000

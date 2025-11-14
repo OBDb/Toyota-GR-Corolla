@@ -1,0 +1,37 @@
+command_id: 700.708.221059
+test_cases:
+- expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 0
+  response: |-
+    708100A621059000029
+    7082152000000000000
+- expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 0
+  response: |-
+    708100A621059295129
+    7082151000000000000
+- expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 0
+  response: |-
+    708100A6210592C5429
+    7082152004F00000000
+- expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 0
+  response: |-
+    708100A6210592C552C
+    7082152000000000000
+- expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 9.70423
+  response: |-
+    708100A621059487029
+    70821520FF000000000
+- expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 11.11268
+  response: |-
+    708100A6210594A732A
+    708215310CA00000000
+- expected_values:
+    GRCOROLLA_ACCEL_PEDAL: 75.19718
+  response: |-
+    708100A621059A5CD29
+    7082152400000000000
