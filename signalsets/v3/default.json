@@ -1,13 +1,13 @@
 { "commands": [
-{ "hdr": "700", "rax": "708", "cmd": {"22": "1059"}, "freq": 0.25, "dbgfilter": { "from": 2026 },
+{ "hdr": "700", "rax": "708", "cmd": {"22": "1059"}, "freq": 0.25, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "GRCOROLLA_ACCEL_PEDAL", "path": "Control", "fmt": { "len": 8, "max": 100, "div": 1.42, "add": -41, "unit": "percent" }, "name": "Accelerator Pedal"}
   ]},
-{ "hdr": "700", "rax": "708", "cmd": {"22": "1074"}, "freq": 0.25, "dbgfilter": { "from": 2026 },
+{ "hdr": "700", "rax": "708", "cmd": {"22": "1074"}, "freq": 0.25, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "GRCOROLLA_ENG_OIL_PRESS", "path": "Engine", "fmt": { "len": 16, "max": 1000, "mul": 10, "div": 128, "unit": "kilopascal" }, "name": "Engine Oil Pressure"}
   ]},
-{ "hdr": "700", "rax": "708", "cmd": {"22": "1638"}, "freq": 1, "dbgfilter": { "from": 2026 },
+{ "hdr": "700", "rax": "708", "cmd": {"22": "1638"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "GRCOROLLA_ATF_TEMP", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Transmission Fluid Temperature"}
   ]},
@@ -77,19 +77,19 @@
     {"id": "GRCOROLLA_TIRE_RR_SPD", "path": "Movement", "fmt": {"bix": 16, "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"},
     {"id": "GRCOROLLA_TIRE_RL_SPD", "path": "Movement", "fmt": {"bix": 24, "len": 8, "max": 326.4, "mul": 256, "div": 200, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "7B0", "rax": "7B8", "cmd": {"22": "1006"}, "freq": 5, "dbgfilter": { "from": 2026 },
+{ "hdr": "7B0", "rax": "7B8", "cmd": {"22": "1006"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "GRCOROLLA_MASTER_CYL_TEMP", "path": "Brakes", "fmt": { "len": 8, "max": 100, "min": -20, "add": -80, "unit": "celsius" }, "name": "Master Cylinder Sensor Temperature"}
   ]},
-{ "hdr": "7B1", "rax": "7B9", "cmd": {"22": "1026"}, "freq": 1, "dbgfilter": { "from": 2026 },
+{ "hdr": "7B1", "rax": "7B9", "cmd": {"22": "1026"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "GRCOROLLA_COUPLING_TEMP", "path": "Drivetrain", "fmt": { "len": 16, "max": 100, "min": -20, "div": 128, "unit": "celsius" }, "name": "Coupling Temperature"}
   ]},
-{ "hdr": "7B3", "rax": "7BB", "cmd": {"22": "1004"}, "freq": 0.25, "dbgfilter": { "from": 2026 },
+{ "hdr": "7B3", "rax": "7BB", "cmd": {"22": "1004"}, "freq": 0.25, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "GRCOROLLA_STEERING_ANGLE", "path": "Control", "fmt": { "len": 16, "max": 410, "min": -410, "mul": 1.5, "sign": true, "unit": "degrees" }, "name": "Steering Angle"}
   ]},
-{ "hdr": "7C0", "rax": "7C8", "cmd": {"22": "1021"}, "freq": 1, "dbgfilter": { "from": 2026 },
+{ "hdr": "7C0", "rax": "7C8", "cmd": {"22": "1021"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2026 },
   "signals": [
     {"id": "GRCOROLLA_BATTERY_VOLTAGE", "path": "Electrical", "fmt": { "len": 8, "max": 20, "div": 10, "unit": "volts" }, "name": "B+ Battery Voltage"}
   ]},
