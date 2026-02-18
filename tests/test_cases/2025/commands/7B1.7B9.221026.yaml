@@ -1,8 +1,8 @@
 command_id: 7B1.7B9.221026
 test_cases:
 - expected_values:
-    GRCOROLLA_COUPLING_TEMP: 16.25
-  response: 7B9056210260820
+    GRCOROLLA_COUPLING_TEMP: 5.69531
+  response: 7B90562102602D9
 - expected_values:
     GRCOROLLA_COUPLING_TEMP: 20
   response: 7B9056210260A00
