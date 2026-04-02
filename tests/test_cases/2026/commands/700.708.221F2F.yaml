@@ -1,0 +1,26 @@
+command_id: 700.708.221F2F
+test_cases:
+- expected_values:
+    GRCOROLLA_FLI: 69.41176
+  response: 70804621F2FB1
+- expected_values:
+    GRCOROLLA_FLI: 71.37255
+  response: 70804621F2FB6
+- expected_values:
+    GRCOROLLA_FLI: 73.33333
+  response: 70804621F2FBB
+- expected_values:
+    GRCOROLLA_FLI: 76.86275
+  response: 70804621F2FC4
+- expected_values:
+    GRCOROLLA_FLI: 77.2549
+  response: 70804621F2FC5
+- expected_values:
+    GRCOROLLA_FLI: 81.96078
+  response: 70804621F2FD1
+- expected_values:
+    GRCOROLLA_FLI: 86.27451
+  response: 70804621F2FDC
+- expected_values:
+    GRCOROLLA_FLI: 69.01961
+  response: "SEARCHING...\n708 04 62 1F 2F B0 "
