@@ -15,7 +15,7 @@
   "signals": [
     {"id": "GRCOROLLA_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "701", "rax": "709", "cmd": {"22": "1627"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "701", "rax": "709", "cmd": {"22": "1627"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "GRCOROLLA_TF1_PAN", "path": "Engine", "fmt": { "len": 16, "max": 350, "min": -40, "mul": 0.00703125, "add": -40, "unit": "fahrenheit" }, "name": "Transmission Fluid Pan Temperature"}
   ]},
@@ -81,7 +81,7 @@
   "signals": [
     {"id": "GRCOROLLA_MASTER_CYL_TEMP", "path": "Brakes", "fmt": { "len": 8, "max": 100, "min": -20, "add": -80, "unit": "celsius" }, "name": "Master Cylinder Sensor Temperature"}
   ]},
-{ "hdr": "7B1", "rax": "7B9", "cmd": {"22": "1026"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2026 },
+{ "hdr": "7B1", "rax": "7B9", "cmd": {"22": "1026"}, "freq": 1, "dbgfilter": { "to": 2022, "from": 2027 },
   "signals": [
     {"id": "GRCOROLLA_COUPLING_TEMP", "path": "Drivetrain", "fmt": { "len": 16, "max": 100, "min": -20, "div": 128, "unit": "celsius" }, "name": "Coupling Temperature"}
   ]},
