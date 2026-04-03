@@ -1,0 +1,11 @@
+command_id: 7C0.7C8.221021
+test_cases:
+- expected_values:
+    GRCOROLLA_BATTERY_VOLTAGE: 14.1
+  response: 7C8046210218D
+- expected_values:
+    GRCOROLLA_BATTERY_VOLTAGE: 14.2
+  response: 7C8046210218E
+- expected_values:
+    GRCOROLLA_BATTERY_VOLTAGE: 14.3
+  response: 7C8046210218F

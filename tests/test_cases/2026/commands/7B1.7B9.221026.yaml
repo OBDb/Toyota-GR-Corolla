@@ -15,3 +15,18 @@ test_cases:
 - expected_values:
     GRCOROLLA_COUPLING_TEMP: 8.61719
   response: 7B905621026044F
+- expected_values:
+    GRCOROLLA_COUPLING_TEMP: 8.89062
+  response: 7B9056210260472
+- expected_values:
+    GRCOROLLA_COUPLING_TEMP: 9.86719
+  response: 7B90562102604EF
+- expected_values:
+    GRCOROLLA_COUPLING_TEMP: 11.13281
+  response: 7B9056210260591
+- expected_values:
+    GRCOROLLA_COUPLING_TEMP: 11.63281
+  response: 7B90562102605D1
+- expected_values:
+    GRCOROLLA_COUPLING_TEMP: 12.25781
+  response: 7B9056210260621
