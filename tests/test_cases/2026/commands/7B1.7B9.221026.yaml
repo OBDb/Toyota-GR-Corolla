@@ -1,0 +1,17 @@
+command_id: 7B1.7B9.221026
+test_cases:
+- expected_values:
+    GRCOROLLA_COUPLING_TEMP: 7.92188
+  response: 7B90562102603F6
+- expected_values:
+    GRCOROLLA_COUPLING_TEMP: 8.0625
+  response: 7B9056210260408
+- expected_values:
+    GRCOROLLA_COUPLING_TEMP: 8.19531
+  response: 7B9056210260419
+- expected_values:
+    GRCOROLLA_COUPLING_TEMP: 8.33594
+  response: 7B905621026042B
+- expected_values:
+    GRCOROLLA_COUPLING_TEMP: 8.61719
+  response: 7B905621026044F
