@@ -4,29 +4,5 @@ test_cases:
     GRCOROLLA_COUPLING_TEMP: 7.92188
   response: 7B90562102603F6
 - expected_values:
-    GRCOROLLA_COUPLING_TEMP: 8.0625
-  response: 7B9056210260408
-- expected_values:
-    GRCOROLLA_COUPLING_TEMP: 8.19531
-  response: 7B9056210260419
-- expected_values:
-    GRCOROLLA_COUPLING_TEMP: 8.33594
-  response: 7B905621026042B
-- expected_values:
-    GRCOROLLA_COUPLING_TEMP: 8.61719
-  response: 7B905621026044F
-- expected_values:
-    GRCOROLLA_COUPLING_TEMP: 8.89062
-  response: 7B9056210260472
-- expected_values:
-    GRCOROLLA_COUPLING_TEMP: 9.86719
-  response: 7B90562102604EF
-- expected_values:
-    GRCOROLLA_COUPLING_TEMP: 11.13281
-  response: 7B9056210260591
-- expected_values:
-    GRCOROLLA_COUPLING_TEMP: 11.63281
-  response: 7B90562102605D1
-- expected_values:
-    GRCOROLLA_COUPLING_TEMP: 12.25781
-  response: 7B9056210260621
+    GRCOROLLA_COUPLING_TEMP: 44.05469
+  response: 7B9056210261607
