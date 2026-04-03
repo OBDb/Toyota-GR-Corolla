@@ -7,23 +7,8 @@ test_cases:
     GRCOROLLA_TF1_PAN: 86
   response: '709056216274600'
 - expected_values:
-    GRCOROLLA_TF1_PAN: 90.5
-  response: '709056216274880'
-- expected_values:
-    GRCOROLLA_TF1_PAN: 93.875
-  response: 709056216274A60
-- expected_values:
-    GRCOROLLA_TF1_PAN: 95
-  response: 709056216274B00
-- expected_values:
     GRCOROLLA_TF1_PAN: 98.375
   response: 709056216274CE0
 - expected_values:
-    GRCOROLLA_TF1_PAN: 99.5
-  response: 709056216274D80
-- expected_values:
-    GRCOROLLA_TF1_PAN: 102.875
-  response: 709056216274F60
-- expected_values:
-    GRCOROLLA_TF1_PAN: 104
-  response: '709056216275000'
+    GRCOROLLA_TF1_PAN: 172.625
+  response: '709056216277620'
