@@ -1,0 +1,17 @@
+command_id: 700.708.221074
+test_cases:
+- expected_values:
+    GRCOROLLA_ENG_OIL_PRESS: 146.64062
+  response: '708056210740755'
+- expected_values:
+    GRCOROLLA_ENG_OIL_PRESS: 213.20312
+  response: 708056210740AA9
+- expected_values:
+    GRCOROLLA_ENG_OIL_PRESS: 276.40625
+  response: 708056210740DD2
+- expected_values:
+    GRCOROLLA_ENG_OIL_PRESS: 315.07812
+  response: 708056210740FC1
+- expected_values:
+    GRCOROLLA_ENG_OIL_PRESS: 355.54688
+  response: 7080562107411C7
