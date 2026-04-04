@@ -10,5 +10,5 @@ test_cases:
     GRCOROLLA_TF1_PAN: 98.375
   response: 709056216274CE0
 - expected_values:
-    GRCOROLLA_TF1_PAN: 172.625
-  response: '709056216277620'
+    GRCOROLLA_TF1_PAN: 178.25
+  response: '709056216277940'
