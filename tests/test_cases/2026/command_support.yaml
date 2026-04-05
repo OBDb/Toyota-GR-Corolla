@@ -51,6 +51,8 @@ supported_commands_by_ecu:
   - 0146:AAT
   - 7E0.0134:LAMBDA11_CURRENT,O2S11_CURRENT
 unsupported_commands_by_ecu:
+  "6F1":
+  - 6F1.22D107
   "700":
   - 700.708.221638:GRCOROLLA_ATF_TEMP
   "701":
