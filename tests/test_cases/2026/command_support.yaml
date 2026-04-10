@@ -15,6 +15,7 @@ supported_commands_by_ecu:
   "7C0":
   - 7C0.7C8.221021:GRCOROLLA_BATTERY_VOLTAGE
   "7DF":
+  - 7DF.0104
   - 7DF.0105
   - 7DF.010D
   - 7DF.0131
@@ -79,7 +80,10 @@ unsupported_commands_by_ecu:
   "7DF":
   - 7DF.013C
   "7E0":
+  - 7E0.0105:ECT
+  - 7E0.0106:SHRTFT1
   - 7E0.010F:IAT
+  - 7E0.0110:MAF
   - 7E0.013E:CATEMP12
   - 7E0.0156:LGSO2FT1
   "7E1":
