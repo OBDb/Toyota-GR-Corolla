@@ -100,6 +100,7 @@ supported_commands_by_ecu:
   - 0145:TP_R
   - 0146:AAT
   - 0147:TP_B
+  - 7E0.015E:FUEL_RATE
   "7E1":
   - 7E1.7E9.0104
 unsupported_commands_by_ecu:
@@ -155,7 +156,6 @@ unsupported_commands_by_ecu:
   - 7E0.0155:STSO2FT1
   - 7E0.0156:LGSO2FT1
   - 7E0.015C:EOT
-  - 7E0.015E:FUEL_RATE
   - 7E0.0162:TQ_ACT
   - 7E0.0163:TQ_REF
   - 7E0.016D:FRP_A,FRP_A_CMD,FRP_A_CMD_SUP,FRP_A_SUP,FRP_B,FRP_B_CMD,FRP_B_CMD_SUP,FRP_B_SUP,FRT_A,FRT_A_SUP,FRT_B,FRT_B_SUP
