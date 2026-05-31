@@ -105,6 +105,7 @@ supported_commands_by_ecu:
   - 7E0.0104:LOAD_PCT
   - 7E0.0105:ECT
   - 7E0.0131:CLR_DIST
+  - 7E0.015C:EOT
 unsupported_commands_by_ecu:
   "701":
   - 701.709.221627:GRCOROLLA_TF1_PAN
@@ -159,7 +160,6 @@ unsupported_commands_by_ecu:
   - 7E0.0153:EVAP_VPA
   - 7E0.0155:STSO2FT1
   - 7E0.0156:LGSO2FT1
-  - 7E0.015C:EOT
   - 7E0.0162:TQ_ACT
   - 7E0.0163:TQ_REF
   - 7E0.0165:GEAR_RCMD,GEAR_SUP,GPL_STAT,GPL_SUP,N/D_STAT,N/D_SUP,N/G_STAT,N/G_SUP,PTO_STAT_AUX,PTO_SUP
