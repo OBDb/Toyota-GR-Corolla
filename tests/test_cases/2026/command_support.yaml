@@ -85,6 +85,7 @@ unsupported_commands_by_ecu:
   - 7E0.010F:IAT
   - 7E0.0110:MAF
   - 7E0.013E:CATEMP12
+  - 7E0.014D:MIL_TIME
   - 7E0.0156:LGSO2FT1
   "7E1":
   - 7E1.7E9.010D
