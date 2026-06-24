@@ -18,6 +18,7 @@ supported_commands_by_ecu:
   - 7DF.0104
   - 7DF.0105
   - 7DF.010D
+  - 7DF.0111
   - 7DF.0131
   - 7DF.0143
   - 7DF.0144
@@ -90,5 +91,6 @@ unsupported_commands_by_ecu:
   - 7E0.0144:EQ_RAT
   - 7E0.014D:MIL_TIME
   - 7E0.0156:LGSO2FT1
+  - 7E0.01A6:ODO
   "7E1":
   - 7E1.7E9.010D
