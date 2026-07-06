@@ -10,5 +10,5 @@ test_cases:
     GRCOROLLA_ATF_TEMP: 10
   response: '708056216383200'
 - expected_values:
-    GRCOROLLA_ATF_TEMP: 85
-  response: 708056216387D00
+    GRCOROLLA_ATF_TEMP: 90
+  response: '708056216388200'
