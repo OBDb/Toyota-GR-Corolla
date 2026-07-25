@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     GRCOROLLA_MASTER_CYL_TEMP: 16
   response: 7B8056210066000
+- expected_values:
+    GRCOROLLA_MASTER_CYL_TEMP: 33
+  response: 7B8056210067100
