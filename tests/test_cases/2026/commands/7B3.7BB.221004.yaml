@@ -2,6 +2,9 @@ command_id: 7B3.7BB.221004
 test_cases:
 - expected_values:
     GRCOROLLA_STEERING_ANGLE: 1.5
+  response: 7BB06621004000101
+- expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
   response: 7BB066210040001FA
 - expected_values:
     GRCOROLLA_STEERING_ANGLE: 3
