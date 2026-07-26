@@ -1,6 +1,16 @@
 command_id: 750.758.221005|t=96,e=2A,ta=2A,fc=1
 test_cases:
 - expected_values:
+    GRCOROLLA_TP_FL: 0
+    GRCOROLLA_TP_FR: 0
+    GRCOROLLA_TP_RL: 0
+    GRCOROLLA_TP_RR: 0
+    GRCOROLLA_TP_SPARE: 0
+  response: |-
+    7582A100D6210050000
+    7582A21000000000000
+    7582A22000000000000
+- expected_values:
     GRCOROLLA_TP_FL: 2.41379
     GRCOROLLA_TP_FR: 2.36207
     GRCOROLLA_TP_RL: 2.36207
