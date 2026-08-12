@@ -1,14 +1,14 @@
 command_id: 700.708.221074
 test_cases:
 - expected_values:
-    GRCOROLLA_ENG_OIL_PRESS: 104.45312
-  response: '708056210740539'
+    GRCOROLLA_ENG_OIL_PRESS: 14.76562
+  response: 7080562107400BD
+- expected_values:
+    GRCOROLLA_ENG_OIL_PRESS: 99.92188
+  response: 7080562107404FF
 - expected_values:
     GRCOROLLA_ENG_OIL_PRESS: 140
   response: '708056210740700'
 - expected_values:
-    GRCOROLLA_ENG_OIL_PRESS: 279.84375
-  response: 708056210740DFE
-- expected_values:
-    GRCOROLLA_ENG_OIL_PRESS: 522.26562
-  response: 708056210741A1D
+    GRCOROLLA_ENG_OIL_PRESS: 521.875
+  response: 708056210741A18
