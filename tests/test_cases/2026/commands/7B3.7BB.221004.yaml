@@ -7,6 +7,9 @@ test_cases:
     GRCOROLLA_STEERING_ANGLE: 1.5
   response: 7BB066210040001FA
 - expected_values:
+    GRCOROLLA_STEERING_ANGLE: 1.5
+  response: 7BB066210040001FE
+- expected_values:
     GRCOROLLA_STEERING_ANGLE: 3
   response: 7BB06621004000206
 - expected_values:
