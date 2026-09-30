@@ -1,0 +1,6 @@
+command_id: 700.708.221041
+test_cases:
+- expected_values:
+    GRCOROLLA_ECT_IGN: 81.875
+    GRCOROLLA_ECT_INIT: 81.875
+  response: 70805621041C3C3

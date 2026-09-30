@@ -1,0 +1,8 @@
+command_id: 700.708.22105E
+test_cases:
+- expected_values:
+    GRCOROLLA_ECU_INTERNAL_T: 44
+  response: '7080462105E54'
+- expected_values:
+    GRCOROLLA_ECU_INTERNAL_T: 67
+  response: 7080462105E6B

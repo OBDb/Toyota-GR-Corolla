@@ -1,0 +1,11 @@
+command_id: 700.708.221087
+test_cases:
+- expected_values:
+    GRCOROLLA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0
+  response: '708056210870000'
+- expected_values:
+    GRCOROLLA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 32.4173
+  response: 708056210870CF8
+- expected_values:
+    GRCOROLLA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 46.06772
+  response: 70805621087126E
