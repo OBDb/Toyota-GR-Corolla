@@ -1,0 +1,14 @@
+command_id: 700.708.221F3C
+test_cases:
+- expected_values:
+    GRCOROLLA_CAT_T_11: 486.6
+  response: 70805621F3C1492
+- expected_values:
+    GRCOROLLA_CAT_T_11: 624.4
+  response: 70805621F3C19F4
+- expected_values:
+    GRCOROLLA_CAT_T_11: 626
+  response: 70805621F3C1A04
+- expected_values:
+    GRCOROLLA_CAT_T_11: 758.6
+  response: 70805621F3C1F32

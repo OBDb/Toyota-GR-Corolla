@@ -1,0 +1,20 @@
+command_id: 700.708.221F77
+test_cases:
+- expected_values:
+    GRCOROLLA_IAT_B1S1: 34
+    GRCOROLLA_IAT_B1S2: 35
+  response: |-
+    7081008621F77034A4B
+    7082100000000000000
+- expected_values:
+    GRCOROLLA_IAT_B1S1: 46
+    GRCOROLLA_IAT_B1S2: 46
+  response: |-
+    7081008621F77035656
+    7082100000000000000
+- expected_values:
+    GRCOROLLA_IAT_B1S1: 46
+    GRCOROLLA_IAT_B1S2: 55
+  response: |-
+    7081008621F7703565F
+    7082100000000000000

@@ -1,0 +1,11 @@
+command_id: 701.709.22161A
+test_cases:
+- expected_values:
+    GRCOROLLA_NT_SPD: 0
+  response: 7090562161A0000
+- expected_values:
+    GRCOROLLA_NT_SPD: 2295
+  response: 7090562161A08F7
+- expected_values:
+    GRCOROLLA_NT_SPD: 4303
+  response: 7090562161A10CF
