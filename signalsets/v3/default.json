@@ -741,7 +741,7 @@
   ]},
 { "hdr": "7C0", "rax": "7C8", "dbg": true, "cmd": {"22": "1022"}, "freq": 30,
   "signals": [
-    {"id": "GRCOROLLA_FUEL_LEVEL", "path": "Fuel", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
+    {"id": "GRCOROLLA_FUEL_LEVEL", "path": "Fuel", "fmt": { "len": 16, "max": 655.35, "div": 100, "nullmax": 655.35, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
 { "hdr": "7C4", "rax": "7CC", "dbg": true, "cmd": {"21": "21"}, "freq": 5,
   "signals": [
