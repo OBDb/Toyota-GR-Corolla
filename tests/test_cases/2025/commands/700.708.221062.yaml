@@ -1,0 +1,14 @@
+command_id: 700.708.221062
+test_cases:
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_OCV_CONTROL_DUTY: 3.92462
+  response: '708056210620283'
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_OCV_CONTROL_DUTY: 43.61639
+  response: 708056210621BEA
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_OCV_CONTROL_DUTY: 45.34371
+  response: 708056210621D05
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_OCV_CONTROL_DUTY: 54.49302
+  response: '7080562106222E0'

@@ -1,0 +1,14 @@
+command_id: 700.708.22106A
+test_cases:
+- expected_values:
+    GRCOROLLA_FUEL_PUMP_DUTY_RATIO: 292.56098
+  response: 7080562106A12BE
+- expected_values:
+    GRCOROLLA_FUEL_PUMP_DUTY_RATIO: 296.46341
+  response: 7080562106A12FE
+- expected_values:
+    GRCOROLLA_FUEL_PUMP_DUTY_RATIO: 296.82927
+  response: 7080562106A1304
+- expected_values:
+    GRCOROLLA_FUEL_PUMP_DUTY_RATIO: 313.90244
+  response: 7080562106A141C
