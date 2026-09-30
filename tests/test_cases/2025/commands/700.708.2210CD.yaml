@@ -1,0 +1,5 @@
+command_id: 700.708.2210CD
+test_cases:
+- expected_values:
+    GRCOROLLA_LFP: 388.2
+  response: 708056210CD8F2A

@@ -1,0 +1,32 @@
+command_id: 700.708.221F5C
+test_cases:
+- expected_values:
+    GRCOROLLA_EOT_V2: 88
+  response: 70804621F5C80
+- expected_values:
+    GRCOROLLA_EOT_V2: 92
+  response: 70804621F5C84
+- expected_values:
+    GRCOROLLA_EOT_V2: 93
+  response: 70804621F5C85
+- expected_values:
+    GRCOROLLA_EOT_V2: 94
+  response: 70804621F5C86
+- expected_values:
+    GRCOROLLA_EOT_V2: 95
+  response: 70804621F5C87
+- expected_values:
+    GRCOROLLA_EOT_V2: 97
+  response: 70804621F5C89
+- expected_values:
+    GRCOROLLA_EOT_V2: 98
+  response: 70804621F5C8A
+- expected_values:
+    GRCOROLLA_EOT_V2: 99
+  response: 70804621F5C8B
+- expected_values:
+    GRCOROLLA_EOT_V2: 100
+  response: 70804621F5C8C
+- expected_values:
+    GRCOROLLA_EOT_V2: 101
+  response: 70804621F5C8D

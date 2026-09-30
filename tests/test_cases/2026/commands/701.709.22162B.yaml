@@ -1,0 +1,8 @@
+command_id: 701.709.22162B
+test_cases:
+- expected_values:
+    GRCOROLLA_ATF_THERMAL_DEGRAD_EST: 308
+  response: 7090562162B0134
+- expected_values:
+    GRCOROLLA_ATF_THERMAL_DEGRAD_EST: 309
+  response: 7090562162B0135
