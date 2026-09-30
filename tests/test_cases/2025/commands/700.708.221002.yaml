@@ -1,0 +1,11 @@
+command_id: 700.708.221002
+test_cases:
+- expected_values:
+    GRCOROLLA_12V_V: 14.0234
+  response: 708056210022CE0
+- expected_values:
+    GRCOROLLA_12V_V: 14.05758
+  response: 708056210022CFC
+- expected_values:
+    GRCOROLLA_12V_V: 14.08688
+  response: 708056210022D14

@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     GRCOROLLA_LFP: 388.2
   response: 708056210CD8F2A
+- expected_values:
+    GRCOROLLA_LFP: 537.5
+  response: 708056210CD94FF
+- expected_values:
+    GRCOROLLA_LFP: 537.7
+  response: 708056210CD9501
+- expected_values:
+    GRCOROLLA_LFP: 564.2
+  response: 708056210CD960A

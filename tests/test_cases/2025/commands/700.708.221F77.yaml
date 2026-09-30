@@ -6,3 +6,9 @@ test_cases:
   response: |-
     7081008621F77034546
     7082100000000000000
+- expected_values:
+    GRCOROLLA_IAT_B1S1: 58
+    GRCOROLLA_IAT_B1S2: 54
+  response: |-
+    7081008621F7703625E
+    7082100000000000000

@@ -1,0 +1,8 @@
+command_id: 700.708.2215EE
+test_cases:
+- expected_values:
+    GRCOROLLA_V_BATSENS: 14.11607
+  response: 708056215EE2D2C
+- expected_values:
+    GRCOROLLA_V_BATSENS: 14.25767
+  response: 708056215EE2DA0

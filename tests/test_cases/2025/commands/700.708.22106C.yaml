@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     GRCOROLLA_DIST_SINCE_BAT_DISC: 13894
   response: 7080562106C3646
+- expected_values:
+    GRCOROLLA_DIST_SINCE_BAT_DISC: 13930
+  response: 7080562106C366A
