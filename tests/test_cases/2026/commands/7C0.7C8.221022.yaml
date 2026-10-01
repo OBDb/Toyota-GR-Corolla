@@ -7,8 +7,5 @@ test_cases:
     GRCOROLLA_FUEL_LEVEL: 17.99
   response: 7C8056210220707
 - expected_values:
-    GRCOROLLA_FUEL_LEVEL: 20.67
-  response: 7C8056210220813
-- expected_values:
-    GRCOROLLA_FUEL_LEVEL: 23.01
-  response: 7C80562102208FD
+    GRCOROLLA_FUEL_LEVEL: null
+  response: 7C805621022FFFF
