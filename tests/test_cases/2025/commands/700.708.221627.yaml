@@ -7,8 +7,8 @@ test_cases:
     GRCOROLLA_ATF_T_PAN_V3: 25
   response: '708056216274100'
 - expected_values:
-    GRCOROLLA_ATF_T_PAN_V3: 51.875
-  response: 708056216275BE0
+    GRCOROLLA_ATF_T_PAN_V3: 46.875
+  response: '7080562162756E0'
 - expected_values:
-    GRCOROLLA_ATF_T_PAN_V3: 91.875
-  response: '7080562162783E0'
+    GRCOROLLA_ATF_T_PAN_V3: 92.5
+  response: '708056216278480'
