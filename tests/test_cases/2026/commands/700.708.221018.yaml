@@ -1,8 +1,8 @@
 command_id: 700.708.221018
 test_cases:
 - expected_values:
-    GRCOROLLA_INJECTOR_PORT: 1.456
-  response: 7080562101805B0
+    GRCOROLLA_INJECTOR_PORT: 1.408
+  response: '708056210180580'
 - expected_values:
     GRCOROLLA_INJECTOR_PORT: 3.57
   response: 708056210180DF2
