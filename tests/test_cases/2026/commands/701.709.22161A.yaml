@@ -7,5 +7,5 @@ test_cases:
     GRCOROLLA_NT_SPD: 2295
   response: 7090562161A08F7
 - expected_values:
-    GRCOROLLA_NT_SPD: 4303
-  response: 7090562161A10CF
+    GRCOROLLA_NT_SPD: 4378
+  response: 7090562161A111A

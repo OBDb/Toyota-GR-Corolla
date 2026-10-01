@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     GRCOROLLA_EXHAUST_VVT_HOLD_LEARN_B1: 53.68002
   response: 70805621089225D
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_HOLD_LEARN_B1: 54.07056
+  response: 70805621089229D
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_HOLD_LEARN_B1: 54.15599
+  response: 7080562108922AB

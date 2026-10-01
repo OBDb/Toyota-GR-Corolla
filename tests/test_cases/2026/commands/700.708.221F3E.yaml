@@ -1,14 +1,14 @@
 command_id: 700.708.221F3E
 test_cases:
 - expected_values:
-    GRCOROLLA_CAT_T_12: 205.7
-  response: 70805621F3E0999
-- expected_values:
-    GRCOROLLA_CAT_T_12: 237
-  response: 70805621F3E0AD2
+    GRCOROLLA_CAT_T_12: 112.1
+  response: 70805621F3E05F1
 - expected_values:
     GRCOROLLA_CAT_T_12: 497.7
   response: 70805621F3E1501
+- expected_values:
+    GRCOROLLA_CAT_T_12: 625.1
+  response: 70805621F3E19FB
 - expected_values:
     GRCOROLLA_CAT_T_12: 690.2
   response: 70805621F3E1C86
