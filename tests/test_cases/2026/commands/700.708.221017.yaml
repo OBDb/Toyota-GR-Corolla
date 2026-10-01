@@ -4,8 +4,8 @@ test_cases:
     GRCOROLLA_INJ_VOL: 0
   response: '708056210170000'
 - expected_values:
-    GRCOROLLA_INJ_VOL: 2.31719
-  response: 708056210171CF7
+    GRCOROLLA_INJ_VOL: 1.5175
+  response: 7080562101712F8
 - expected_values:
-    GRCOROLLA_INJ_VOL: 5.31062
-  response: '708056210174262'
+    GRCOROLLA_INJ_VOL: 6.13406
+  response: 708056210174CAD
