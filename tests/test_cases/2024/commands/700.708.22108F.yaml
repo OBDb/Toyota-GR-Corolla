@@ -1,0 +1,11 @@
+command_id: 700.708.22108F
+test_cases:
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_OVER_ADV_LEARN_B1: 120.51753
+  response: 7080562108F3035
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_OVER_ADV_LEARN_B1: 121.97261
+  response: 7080562108F30CA
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_OVER_ADV_LEARN_B1: 122.03121
+  response: 7080562108F30D0
