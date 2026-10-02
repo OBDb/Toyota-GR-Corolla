@@ -1,0 +1,11 @@
+command_id: 700.708.22106F
+test_cases:
+- expected_values:
+    GRCOROLLA_INTAKE_VVT_TARGET_ANGLE_B1: 0
+  response: 7080562106F0000
+- expected_values:
+    GRCOROLLA_INTAKE_VVT_TARGET_ANGLE_B1: 12.13696
+  response: 7080562106F04DB
+- expected_values:
+    GRCOROLLA_INTAKE_VVT_TARGET_ANGLE_B1: 33.57925
+  response: 7080562106F0D6F

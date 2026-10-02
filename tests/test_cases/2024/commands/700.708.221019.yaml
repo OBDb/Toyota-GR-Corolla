@@ -1,0 +1,14 @@
+command_id: 700.708.221019
+test_cases:
+- expected_values:
+    GRCOROLLA_INJECTION: DIRECT
+  response: '7080762101901508000'
+- expected_values:
+    GRCOROLLA_INJECTION: DIRECT
+  response: 7080762101901698A28
+- expected_values:
+    GRCOROLLA_INJECTION: BOTH
+  response: 70807621019023B8A8C
+- expected_values:
+    GRCOROLLA_INJECTION: BOTH
+  response: 7080762101902EA8000

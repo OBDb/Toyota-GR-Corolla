@@ -1,0 +1,11 @@
+command_id: 7C0.7C8.221022
+test_cases:
+- expected_values:
+    GRCOROLLA_FUEL_LEVEL: 8.34
+  response: 7C8056210220342
+- expected_values:
+    GRCOROLLA_FUEL_LEVEL: 20.67
+  response: 7C8056210220813
+- expected_values:
+    GRCOROLLA_FUEL_LEVEL: null
+  response: 7C805621022FFFF
