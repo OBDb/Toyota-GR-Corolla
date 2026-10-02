@@ -1,0 +1,11 @@
+command_id: 700.708.221017
+test_cases:
+- expected_values:
+    GRCOROLLA_INJ_VOL: 0
+  response: '708056210170000'
+- expected_values:
+    GRCOROLLA_INJ_VOL: 1.83969
+  response: 7080562101716FF
+- expected_values:
+    GRCOROLLA_INJ_VOL: 4.47719
+  response: 7080562101737F7

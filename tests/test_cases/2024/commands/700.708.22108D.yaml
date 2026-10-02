@@ -1,0 +1,8 @@
+command_id: 700.708.22108D
+test_cases:
+- expected_values:
+    GRCOROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 31.31835
+  response: 7080562108D0C87
+- expected_values:
+    GRCOROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 31.88475
+  response: 7080562108D0CC1
