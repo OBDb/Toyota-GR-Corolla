@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     GRCOROLLA_ENG_ODO: 12797
   response: 70807620103010031FD
+- expected_values:
+    GRCOROLLA_ENG_ODO: 12810
+  response: 708076201030100320A
