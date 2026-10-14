@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     GRCOROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 32.37304
   response: 7080562108D0CF3
+- expected_values:
+    GRCOROLLA_INTAKE_VVT_OVER_RET_LEARN_B1: 32.44139
+  response: 7080562108D0CFA

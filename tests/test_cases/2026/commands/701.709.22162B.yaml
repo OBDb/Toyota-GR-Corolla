@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     GRCOROLLA_ATF_THERMAL_DEGRAD_EST: 309
   response: 7090562162B0135
+- expected_values:
+    GRCOROLLA_ATF_THERMAL_DEGRAD_EST: 330
+  response: 7090562162B014A
