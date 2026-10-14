@@ -4,8 +4,8 @@ test_cases:
     GRCOROLLA_INJECTOR_PORT: 1.408
   response: '708056210180580'
 - expected_values:
-    GRCOROLLA_INJECTOR_PORT: 3.57
-  response: 708056210180DF2
+    GRCOROLLA_INJECTOR_PORT: 5.117
+  response: 7080562101813FD
 - expected_values:
     GRCOROLLA_INJECTOR_PORT: 5.633
   response: '708056210181601'
