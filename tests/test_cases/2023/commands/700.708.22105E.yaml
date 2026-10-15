@@ -1,0 +1,26 @@
+command_id: 700.708.22105E
+test_cases:
+- expected_values:
+    GRCOROLLA_ECU_INTERNAL_T: 31
+  response: '7080462105E47'
+- expected_values:
+    GRCOROLLA_ECU_INTERNAL_T: 32
+  response: '7080462105E48'
+- expected_values:
+    GRCOROLLA_ECU_INTERNAL_T: 33
+  response: '7080462105E49'
+- expected_values:
+    GRCOROLLA_ECU_INTERNAL_T: 34
+  response: 7080462105E4A
+- expected_values:
+    GRCOROLLA_ECU_INTERNAL_T: 35
+  response: 7080462105E4B
+- expected_values:
+    GRCOROLLA_ECU_INTERNAL_T: 59
+  response: '7080462105E63'
+- expected_values:
+    GRCOROLLA_ECU_INTERNAL_T: 60
+  response: '7080462105E64'
+- expected_values:
+    GRCOROLLA_ECU_INTERNAL_T: 61
+  response: '7080462105E65'

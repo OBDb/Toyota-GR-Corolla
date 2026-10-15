@@ -1,0 +1,37 @@
+command_id: 700.708.2210A5
+test_cases:
+- expected_values:
+    GRCOROLLA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000000
+    7082100510000000000
+- expected_values:
+    GRCOROLLA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000067
+    7082100500000000000
+- expected_values:
+    GRCOROLLA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A50000D7
+    7082100700000000000
+- expected_values:
+    GRCOROLLA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A50000EA
+    70821006F0000000000
+- expected_values:
+    GRCOROLLA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A50000FB
+    70821006A0000000000
+- expected_values:
+    GRCOROLLA_MISFIRE_CNT: 0
+  response: |-
+    70810086210A5000105
+    70821006A0000000000
+- expected_values:
+    GRCOROLLA_MISFIRE_CNT: 4
+  response: |-
+    70810086210A5040000
+    7082100000000000000

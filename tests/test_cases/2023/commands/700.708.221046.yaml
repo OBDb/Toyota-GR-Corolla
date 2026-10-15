@@ -1,0 +1,26 @@
+command_id: 700.708.221046
+test_cases:
+- expected_values:
+    GRCOROLLA_COOLING_FAN_DUTY_RATIO: 32.5
+  response: '7080462104641'
+- expected_values:
+    GRCOROLLA_COOLING_FAN_DUTY_RATIO: 33
+  response: '7080462104642'
+- expected_values:
+    GRCOROLLA_COOLING_FAN_DUTY_RATIO: 33.5
+  response: '7080462104643'
+- expected_values:
+    GRCOROLLA_COOLING_FAN_DUTY_RATIO: 35.5
+  response: '7080462104647'
+- expected_values:
+    GRCOROLLA_COOLING_FAN_DUTY_RATIO: 36
+  response: '7080462104648'
+- expected_values:
+    GRCOROLLA_COOLING_FAN_DUTY_RATIO: 37
+  response: 708046210464A
+- expected_values:
+    GRCOROLLA_COOLING_FAN_DUTY_RATIO: 38
+  response: 708046210464C
+- expected_values:
+    GRCOROLLA_COOLING_FAN_DUTY_RATIO: 40
+  response: '7080462104650'

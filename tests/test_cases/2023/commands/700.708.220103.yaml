@@ -1,0 +1,11 @@
+command_id: 700.708.220103
+test_cases:
+- expected_values:
+    GRCOROLLA_ENG_ODO: 28286
+  response: 7080762010301006E7E
+- expected_values:
+    GRCOROLLA_ENG_ODO: 28297
+  response: '7080762010301006E89'
+- expected_values:
+    GRCOROLLA_ENG_ODO: 28298
+  response: 7080762010301006E8A
