@@ -1,0 +1,14 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    GRCOROLLA_DIST_SINCE_BAT_DISC: 19636
+  response: 7080562106C4CB4
+- expected_values:
+    GRCOROLLA_DIST_SINCE_BAT_DISC: 19647
+  response: 7080562106C4CBF
+- expected_values:
+    GRCOROLLA_DIST_SINCE_BAT_DISC: 19648
+  response: 7080562106C4CC0
+- expected_values:
+    GRCOROLLA_DIST_SINCE_BAT_DISC: 19649
+  response: 7080562106C4CC1

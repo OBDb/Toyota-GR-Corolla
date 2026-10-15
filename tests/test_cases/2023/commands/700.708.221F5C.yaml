@@ -1,0 +1,8 @@
+command_id: 700.708.221F5C
+test_cases:
+- expected_values:
+    GRCOROLLA_EOT_V2: 59
+  response: 70804621F5C63
+- expected_values:
+    GRCOROLLA_EOT_V2: 91
+  response: 70804621F5C83

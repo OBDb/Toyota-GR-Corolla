@@ -1,0 +1,11 @@
+command_id: 7B1.7B9.220103
+test_cases:
+- expected_values:
+    GRCOROLLA_TOT_DIST: 150
+  response: 7B90762010301006E7E
+- expected_values:
+    GRCOROLLA_TOT_DIST: 150
+  response: 7B90762010301006E89
+- expected_values:
+    GRCOROLLA_TOT_DIST: 150
+  response: 7B90762010301006E8A

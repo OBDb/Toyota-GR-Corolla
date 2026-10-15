@@ -1,0 +1,14 @@
+command_id: 700.708.221071
+test_cases:
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_TARGET_ANGLE_B1: 0
+  response: '708056210710000'
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_TARGET_ANGLE_B1: 12.88881
+  response: '708056210710528'
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_TARGET_ANGLE_B1: 23.65877
+  response: '708056210710977'
+- expected_values:
+    GRCOROLLA_EXHAUST_VVT_TARGET_ANGLE_B1: 26.41229
+  response: 708056210710A91

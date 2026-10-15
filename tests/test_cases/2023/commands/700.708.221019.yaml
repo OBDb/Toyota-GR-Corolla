@@ -1,0 +1,26 @@
+command_id: 700.708.221019
+test_cases:
+- expected_values:
+    GRCOROLLA_INJECTION: BOTH
+  response: 70807621019023C8000
+- expected_values:
+    GRCOROLLA_INJECTION: BOTH
+  response: 70807621019023F8000
+- expected_values:
+    GRCOROLLA_INJECTION: BOTH
+  response: '7080762101902628000'
+- expected_values:
+    GRCOROLLA_INJECTION: BOTH
+  response: 7080762101902768A28
+- expected_values:
+    GRCOROLLA_INJECTION: BOTH
+  response: 7080762101902988A2D
+- expected_values:
+    GRCOROLLA_INJECTION: BOTH
+  response: 7080762101902A38000
+- expected_values:
+    GRCOROLLA_INJECTION: BOTH
+  response: 7080762101902B68A28
+- expected_values:
+    GRCOROLLA_INJECTION: BOTH
+  response: '7080762101902E38000'

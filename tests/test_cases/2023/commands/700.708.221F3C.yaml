@@ -1,0 +1,32 @@
+command_id: 700.708.221F3C
+test_cases:
+- expected_values:
+    GRCOROLLA_CAT_T_11: 414.6
+  response: 70805621F3C11C2
+- expected_values:
+    GRCOROLLA_CAT_T_11: 414.8
+  response: 70805621F3C11C4
+- expected_values:
+    GRCOROLLA_CAT_T_11: 496.9
+  response: 70805621F3C14F9
+- expected_values:
+    GRCOROLLA_CAT_T_11: 508.9
+  response: 70805621F3C1571
+- expected_values:
+    GRCOROLLA_CAT_T_11: 585.8
+  response: 70805621F3C1872
+- expected_values:
+    GRCOROLLA_CAT_T_11: 638.7
+  response: 70805621F3C1A83
+- expected_values:
+    GRCOROLLA_CAT_T_11: 648
+  response: 70805621F3C1AE0
+- expected_values:
+    GRCOROLLA_CAT_T_11: 648.2
+  response: 70805621F3C1AE2
+- expected_values:
+    GRCOROLLA_CAT_T_11: 655.3
+  response: 70805621F3C1B29
+- expected_values:
+    GRCOROLLA_CAT_T_11: 683.3
+  response: 70805621F3C1C41
