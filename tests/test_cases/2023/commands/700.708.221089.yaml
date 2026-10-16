@@ -1,6 +1,9 @@
 command_id: 700.708.221089
 test_cases:
 - expected_values:
+    GRCOROLLA_EXHAUST_VVT_HOLD_LEARN_B1: 55.46793
+  response: '708056210892382'
+- expected_values:
     GRCOROLLA_EXHAUST_VVT_HOLD_LEARN_B1: 57.35348
   response: 7080562108924B7
 - expected_values:
