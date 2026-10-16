@@ -12,3 +12,15 @@ test_cases:
 - expected_values:
     GRCOROLLA_DIST_SINCE_BAT_DISC: 19649
   response: 7080562106C4CC1
+- expected_values:
+    GRCOROLLA_DIST_SINCE_BAT_DISC: 19656
+  response: 7080562106C4CC8
+- expected_values:
+    GRCOROLLA_DIST_SINCE_BAT_DISC: 19657
+  response: 7080562106C4CC9
+- expected_values:
+    GRCOROLLA_DIST_SINCE_BAT_DISC: 19658
+  response: 7080562106C4CCA
+- expected_values:
+    GRCOROLLA_DIST_SINCE_BAT_DISC: 19659
+  response: 7080562106C4CCB

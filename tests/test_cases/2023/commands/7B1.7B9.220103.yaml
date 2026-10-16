@@ -9,3 +9,15 @@ test_cases:
 - expected_values:
     GRCOROLLA_TOT_DIST: 150
   response: 7B90762010301006E8A
+- expected_values:
+    GRCOROLLA_TOT_DIST: 150
+  response: 7B90762010301006E92
+- expected_values:
+    GRCOROLLA_TOT_DIST: 150
+  response: 7B90762010301006E93
+- expected_values:
+    GRCOROLLA_TOT_DIST: 150
+  response: 7B90762010301006E94
+- expected_values:
+    GRCOROLLA_TOT_DIST: 150
+  response: 7B90762010301006E95

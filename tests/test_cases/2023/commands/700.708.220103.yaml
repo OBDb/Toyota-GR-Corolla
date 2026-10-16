@@ -9,3 +9,15 @@ test_cases:
 - expected_values:
     GRCOROLLA_ENG_ODO: 28298
   response: 7080762010301006E8A
+- expected_values:
+    GRCOROLLA_ENG_ODO: 28306
+  response: '7080762010301006E92'
+- expected_values:
+    GRCOROLLA_ENG_ODO: 28307
+  response: '7080762010301006E93'
+- expected_values:
+    GRCOROLLA_ENG_ODO: 28308
+  response: '7080762010301006E94'
+- expected_values:
+    GRCOROLLA_ENG_ODO: 28309
+  response: '7080762010301006E95'
