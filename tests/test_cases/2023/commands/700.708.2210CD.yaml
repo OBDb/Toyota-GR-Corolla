@@ -7,5 +7,8 @@ test_cases:
     GRCOROLLA_LFP: 409
   response: 708056210CD8FFA
 - expected_values:
-    GRCOROLLA_LFP: 412.5
-  response: 708056210CD901D
+    GRCOROLLA_LFP: 411.9
+  response: 708056210CD9017
+- expected_values:
+    GRCOROLLA_LFP: 482
+  response: 708056210CD92D4
