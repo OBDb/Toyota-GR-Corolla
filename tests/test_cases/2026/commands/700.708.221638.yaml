@@ -7,11 +7,8 @@ test_cases:
     GRCOROLLA_ATF_TEMP: 11
   response: '7080562163833E0'
 - expected_values:
-    GRCOROLLA_ATF_TEMP: 12
-  response: '708056216383480'
+    GRCOROLLA_ATF_TEMP: 15
+  response: '708056216383700'
 - expected_values:
-    GRCOROLLA_ATF_TEMP: 13
-  response: '708056216383520'
-- expected_values:
-    GRCOROLLA_ATF_TEMP: 13
-  response: 7080562163835C0
+    GRCOROLLA_ATF_TEMP: 66
+  response: 708056216386A40
