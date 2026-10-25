@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     GRCOROLLA_12V_V: 14.3359
   response: 708056210022DE0
+- expected_values:
+    GRCOROLLA_12V_V: 14.37985
+  response: '708056210022E04'
