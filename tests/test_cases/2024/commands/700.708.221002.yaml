@@ -1,8 +1,8 @@
 command_id: 700.708.221002
 test_cases:
 - expected_values:
-    GRCOROLLA_12V_V: 13.29586
-  response: 708056210022A8C
+    GRCOROLLA_12V_V: 13.26168
+  response: 708056210022A70
 - expected_values:
     GRCOROLLA_12V_V: 14.37008
   response: 708056210022DFC
