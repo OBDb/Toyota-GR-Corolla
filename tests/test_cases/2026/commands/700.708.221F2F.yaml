@@ -1,8 +1,8 @@
 command_id: 700.708.221F2F
 test_cases:
 - expected_values:
-    GRCOROLLA_FLI: 18.82353
-  response: 70804621F2F30
+    GRCOROLLA_FLI: 17.64706
+  response: 70804621F2F2D
 - expected_values:
     GRCOROLLA_FLI: 86.27451
   response: 70804621F2FDC
