@@ -1,6 +1,9 @@
 command_id: 700.708.221627
 test_cases:
 - expected_values:
+    GRCOROLLA_ATF_T_PAN_V3: 12.5
+  response: '708056216273480'
+- expected_values:
     GRCOROLLA_ATF_T_PAN_V3: 15
   response: '708056216273700'
 - expected_values:
