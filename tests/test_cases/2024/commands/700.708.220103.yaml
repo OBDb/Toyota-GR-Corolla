@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     GRCOROLLA_ENG_ODO: 13056
   response: '7080762010301003300'
+- expected_values:
+    GRCOROLLA_ENG_ODO: 13312
+  response: '7080762010301003400'
