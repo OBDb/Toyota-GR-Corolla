@@ -1,7 +1,12 @@
 { "commands": [
 { "hdr": "700", "rax": "708", "cmd": {"22": "0103"}, "freq": 30, "dbgfilter": { "to": 2022, "from": 2027 },
   "signals": [
-    {"id": "GRCOROLLA_ENG_ODO", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "GRCOROLLA_ENG_ODO_RAW", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "scalar" }, "name": "Odometer, in the cluster's unit"},
+    {"id": "GRCOROLLA_ENG_ODO_UNIT", "path": "Trips", "name": "Odometer unit", "fmt": {"len": 8, "map": {
+          "1": { "description": "Kilometers", "value": "KM" },
+          "2": { "description": "Miles",      "value": "MI" }
+        }}
+    }
   ]},
 { "hdr": "700", "rax": "708", "cmd": {"22": "1002"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2027 },
   "signals": [
@@ -95,7 +100,7 @@
   ]},
 { "hdr": "700", "rax": "708", "cmd": {"22": "107B"}, "freq": 5, "dbgfilter": { "to": 2022, "from": 2027 },
   "signals": [
-    {"id": "GRCOROLLA_EOT_700", "path": "Engine", "fmt": {"bix": 192, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
+    {"id": "GRCOROLLA_EOT_700", "path": "Engine", "fmt": {"bix": 192, "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Intake air temperature", "suggestedMetric": "intakeAirTemperature"}
   ]},
 { "hdr": "700", "rax": "708", "cmd": {"22": "1084"}, "freq": 1, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
@@ -396,7 +401,12 @@
   ]},
 { "hdr": "701", "rax": "709", "cmd": {"22": "0103"}, "freq": 30, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
-    {"id": "GRCOROLLA_ODO_V5", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "GRCOROLLA_ODO_V5_RAW", "path": "Trips", "fmt": {"bix": 8, "len": 24, "max": 16777215, "unit": "scalar" }, "name": "Odometer, in the cluster's unit"},
+    {"id": "GRCOROLLA_ODO_V5_UNIT", "path": "Trips", "name": "Odometer unit", "fmt": {"len": 8, "map": {
+          "1": { "description": "Kilometers", "value": "KM" },
+          "2": { "description": "Miles",      "value": "MI" }
+        }}
+    }
   ]},
 { "hdr": "701", "rax": "709", "dbg": true, "cmd": {"22": "1614"}, "freq": 0.25,
   "signals": [
@@ -818,5 +828,13 @@
   "signals": [
     {"id": "GRCOROLLA_PARKING_BRAKE", "path": "Control", "fmt": {"bix": 6, "len": 1, "max": 1, "unit": "offon" }, "name": "Parking brake"}
   ]}
+],
+"synthetics": [
+  { "id": "GRCOROLLA_ENG_ODO", "path": "Trips", "name": "Odometer", "max": 16777215, "unit": "kilometers", "suggestedMetric": "odometer", "formula": {
+    "op": "unit", "value": "GRCOROLLA_ENG_ODO_RAW", "key": "GRCOROLLA_ENG_ODO_UNIT", "units": { "KM": "kilometers", "MI": "miles" }
+  }},
+  { "id": "GRCOROLLA_ODO_V5", "path": "Trips", "name": "Odometer", "max": 16777215, "unit": "kilometers", "suggestedMetric": "odometer", "formula": {
+    "op": "unit", "value": "GRCOROLLA_ODO_V5_RAW", "key": "GRCOROLLA_ODO_V5_UNIT", "units": { "KM": "kilometers", "MI": "miles" }
+  }}
 ]
 }
