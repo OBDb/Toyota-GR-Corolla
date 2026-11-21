@@ -4,6 +4,9 @@ test_cases:
     GRCOROLLA_EOT_V2: 33
   response: 70804621F5C49
 - expected_values:
+    GRCOROLLA_EOT_V2: 90
+  response: 70804621F5C82
+- expected_values:
     GRCOROLLA_EOT_V2: 95
   response: 70804621F5C87
 - expected_values:
