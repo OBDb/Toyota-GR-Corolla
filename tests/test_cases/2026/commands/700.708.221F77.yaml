@@ -1,10 +1,10 @@
 command_id: 700.708.221F77
 test_cases:
 - expected_values:
-    GRCOROLLA_IAT_B1S1: 15
-    GRCOROLLA_IAT_B1S2: 20
+    GRCOROLLA_IAT_B1S1: 1
+    GRCOROLLA_IAT_B1S2: 5
   response: |-
-    7081008621F7703373C
+    7081008621F7703292D
     7082100000000000000
 - expected_values:
     GRCOROLLA_IAT_B1S1: 46
