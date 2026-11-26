@@ -17,6 +17,10 @@ test_cases:
     GRCOROLLA_ECT_INIT: 81.875
   response: 70805621041C3C3
 - expected_values:
+    GRCOROLLA_ECT_IGN: 87.5
+    GRCOROLLA_ECT_INIT: 87.5
+  response: 70805621041CCCC
+- expected_values:
     GRCOROLLA_ECT_IGN: 105.625
     GRCOROLLA_ECT_INIT: 105.625
   response: 70805621041E9E9

@@ -1,8 +1,8 @@
 command_id: 700.708.221F46
 test_cases:
 - expected_values:
-    GRCOROLLA_AMBIENT_T: 23
-  response: 70804621F463F
+    GRCOROLLA_AMBIENT_T: -4
+  response: 70804621F4624
 - expected_values:
     GRCOROLLA_AMBIENT_T: 53
   response: 70804621F465D
